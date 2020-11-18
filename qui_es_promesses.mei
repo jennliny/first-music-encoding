@@ -77,15 +77,15 @@
                     <scoreDef midi.bpm="600">
                         <staffGrp symbol="bracket">
                             <staffDef n="1" lines="5" notationtype="mensural.black" notationsubtype="Ars_nova" clef.shape="G" clef.line="2">
-                                <mensur modusminor="3" tempus="2" prolatio="2"/>
+                                <mensur modusminor="2" tempus="2" prolatio="2"/>
                                 <label>triplum</label>
                             </staffDef>
                             <staffDef n="2" lines="5" notationtype="mensural.black" notationsubtype="Ars_nova" clef.shape="G" clef.line="2" clef.dis="8" clef.dis.place="below">
-                                <mensur modusminor="3" tempus="2" prolatio="2"/>
+                                <mensur modusminor="2" tempus="2" prolatio="2"/>
                                 <label>motetus</label>
                             </staffDef>
                             <staffDef n="3" lines="5" notationtype="mensural.black" notationsubtype="Ars_nova" clef.shape="G" clef.line="2" clef.dis="8" clef.dis.place="below">
-                                <mensur modusminor="3"/>
+                                <mensur modusminor="2"/>
                                 <label>tenor</label>
                             </staffDef>
                         </staffGrp>
@@ -2059,12 +2059,12 @@
                             <layer n="1">
                                 <note xml:id="m-4bcf9e84-74d5-4557-a4a4-ab679ec361b9" dur="brevis" oct="3" pname="d">
                                     <verse xml:id="m-f9231f61-db32-4800-a352-252f32684d06" color="black" n="1">
-                                        <syl xml:id="m-0d38b512-6590-4bb9-9b98-b402a4048c07">Et</syl>
+                                        <syl xml:id="m-0d38b512-6590-4bb9-9b98-b402a4048c07">Et non est qui adjuvat</syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-adf2233d-9bf8-413b-9d23-f82f71bead5d" dur="longa" oct="3" pname="d">
                                     <verse xml:id="m-e8ad4d01-1eef-47cb-9416-86acdd24c9d8" color="black" n="1">
-                                        <syl xml:id="m-b3172bc2-1f88-453a-aaf4-1f48d37216bc">non</syl>
+                                        <syl xml:id="m-b3172bc2-1f88-453a-aaf4-1f48d37216bc"></syl>
                                     </verse>
                                 </note>
                                 <barLine form="dashed"/>
@@ -2072,9 +2072,10 @@
 
                                 <note xml:id="m-f72c2df0-90c7-4cad-93c1-6d85a000ccdf" dur="longa" oct="3" pname="g">
                                     <verse xml:id="m-8666a017-9a01-493a-be32-1e8c42cd29df" color="black" n="1">
-                                        <syl xml:id="m-d4d1e0d6-b0c7-43bd-8f05-d2e88df9f04e">est</syl>
+                                        <syl xml:id="m-d4d1e0d6-b0c7-43bd-8f05-d2e88df9f04e"></syl>
                                     </verse>
                                 </note>
+                                <barLine form="dashed"/>
 
                                 <note xml:id="m-dc727ef3-8eaf-4786-b884-3b702d2b12ea" dur="longa" oct="3" pname="f" dur.quality="perfecta" num="2" numbase="3">
                                     <accid xml:id="m-c14f6d35-9894-4fc1-a6ce-c1e147ed5a62" accid="s"/>
@@ -2083,7 +2084,7 @@
                                 <barLine form="dashed"/>
                                 <note xml:id="m-cd9e9072-509f-4751-9368-ce60c1959053" dur="brevis" oct="3" pname="g">
                                     <verse xml:id="m-a9211acb-be42-4d41-a5f4-0597b956eb24" color="black" n="1">
-                                        <syl xml:id="m-d6aa5294-a913-4d6e-96a9-4ba8f2138cfb">qui</syl>
+                                        <syl xml:id="m-d6aa5294-a913-4d6e-96a9-4ba8f2138cfb"></syl>
                                     </verse>
                                 </note>
 
@@ -2092,7 +2093,7 @@
                                 <rest xml:id="m-35072018-8ef0-4748-8893-bdc5cf7dba1a" dur="brevis"/>
                                 <note xml:id="m-f95d95a7-9801-4cb0-977f-b78b82b2f735" dur="longa" oct="3" pname="g">
                                     <verse xml:id="m-342a0373-78b8-499c-83e7-88410d474b57" color="black" n="1">
-                                        <syl xml:id="m-09d1413d-0fa5-4746-93b9-e8a5e135317c">adjuvat</syl>
+                                        <syl xml:id="m-09d1413d-0fa5-4746-93b9-e8a5e135317c"></syl>
                                     </verse>
                                 </note>
                                 <barLine form="dashed"/>
@@ -2123,12 +2124,12 @@
                                 <barLine form="dashed"/>
                                 <note xml:id="m-4bcf9e84-74d5-4557-a4a4-ab679ec361b9_1" dur="brevis" oct="3" pname="d" copyof="#m-4bcf9e84-74d5-4557-a4a4-ab679ec361b9">
                                     <verse xml:id="m-f9231f61-db32-4800-a352-252f32684d06_1" color="black" n="1" copyof="#m-f9231f61-db32-4800-a352-252f32684d06">
-                                        <syl xml:id="m-0d38b512-6590-4bb9-9b98-b402a4048c07_1" copyof="#m-0d38b512-6590-4bb9-9b98-b402a4048c07">Et</syl>
+                                        <syl xml:id="m-0d38b512-6590-4bb9-9b98-b402a4048c07_1" copyof="#m-0d38b512-6590-4bb9-9b98-b402a4048c07"></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-adf2233d-9bf8-413b-9d23-f82f71bead5d_1" dur="longa" oct="3" pname="d" copyof="#m-adf2233d-9bf8-413b-9d23-f82f71bead5d">
                                     <verse xml:id="m-e8ad4d01-1eef-47cb-9416-86acdd24c9d8_1" color="black" n="1" copyof="#m-e8ad4d01-1eef-47cb-9416-86acdd24c9d8">
-                                        <syl xml:id="m-b3172bc2-1f88-453a-aaf4-1f48d37216bc_1" copyof="#m-b3172bc2-1f88-453a-aaf4-1f48d37216bc">non</syl>
+                                        <syl xml:id="m-b3172bc2-1f88-453a-aaf4-1f48d37216bc_1" copyof="#m-b3172bc2-1f88-453a-aaf4-1f48d37216bc"></syl>
                                     </verse>
                                 </note>
                                 <barLine form="dashed"/>
@@ -2136,7 +2137,7 @@
 
                                 <note xml:id="m-f72c2df0-90c7-4cad-93c1-6d85a000ccdf_1" dur="longa" oct="3" pname="g" copyof="#m-f72c2df0-90c7-4cad-93c1-6d85a000ccdf">
                                     <verse xml:id="m-8666a017-9a01-493a-be32-1e8c42cd29df_1" color="black" n="1" copyof="#m-8666a017-9a01-493a-be32-1e8c42cd29df">
-                                        <syl xml:id="m-d4d1e0d6-b0c7-43bd-8f05-d2e88df9f04e_1" copyof="#m-d4d1e0d6-b0c7-43bd-8f05-d2e88df9f04e">est</syl>
+                                        <syl xml:id="m-d4d1e0d6-b0c7-43bd-8f05-d2e88df9f04e_1" copyof="#m-d4d1e0d6-b0c7-43bd-8f05-d2e88df9f04e"></syl>
                                     </verse>
                                 </note>
                                 <barLine form="dashed"/>
@@ -2149,7 +2150,7 @@
                                 <barLine form="dashed"/>
                                 <note xml:id="m-cd9e9072-509f-4751-9368-ce60c1959053_1" dur="brevis" oct="3" pname="g" copyof="#m-cd9e9072-509f-4751-9368-ce60c1959053">
                                     <verse xml:id="m-a9211acb-be42-4d41-a5f4-0597b956eb24_1" color="black" n="1" copyof="#m-a9211acb-be42-4d41-a5f4-0597b956eb24">
-                                        <syl xml:id="m-d6aa5294-a913-4d6e-96a9-4ba8f2138cfb_1" copyof="#m-d6aa5294-a913-4d6e-96a9-4ba8f2138cfb">qui</syl>
+                                        <syl xml:id="m-d6aa5294-a913-4d6e-96a9-4ba8f2138cfb_1" copyof="#m-d6aa5294-a913-4d6e-96a9-4ba8f2138cfb"></syl>
                                     </verse>
                                 </note>
 
@@ -2158,7 +2159,7 @@
                                 <rest xml:id="m-35072018-8ef0-4748-8893-bdc5cf7dba1a_1" dur="brevis" copyof="#m-35072018-8ef0-4748-8893-bdc5cf7dba1a"/>
                                 <note xml:id="m-f95d95a7-9801-4cb0-977f-b78b82b2f735_1" dur="longa" oct="3" pname="g" copyof="#m-f95d95a7-9801-4cb0-977f-b78b82b2f735">
                                     <verse xml:id="m-342a0373-78b8-499c-83e7-88410d474b57_1" color="black" n="1" copyof="#m-342a0373-78b8-499c-83e7-88410d474b57">
-                                        <syl xml:id="m-09d1413d-0fa5-4746-93b9-e8a5e135317c_1" copyof="#m-09d1413d-0fa5-4746-93b9-e8a5e135317c">adjuvat</syl>
+                                        <syl xml:id="m-09d1413d-0fa5-4746-93b9-e8a5e135317c_1" copyof="#m-09d1413d-0fa5-4746-93b9-e8a5e135317c"></syl>
                                     </verse>
                                 </note>
                                 <barLine form="dashed"/>
@@ -2189,12 +2190,12 @@
                                 <barLine form="dashed"/>
                                 <note xml:id="m-4bcf9e84-74d5-4557-a4a4-ab679ec361b9_2" dur="brevis" oct="3" pname="d" copyof="#m-4bcf9e84-74d5-4557-a4a4-ab679ec361b9">
                                     <verse xml:id="m-f9231f61-db32-4800-a352-252f32684d06_2" color="black" n="1" copyof="#m-f9231f61-db32-4800-a352-252f32684d06">
-                                        <syl xml:id="m-0d38b512-6590-4bb9-9b98-b402a4048c07_2" copyof="#m-0d38b512-6590-4bb9-9b98-b402a4048c07">Et</syl>
+                                        <syl xml:id="m-0d38b512-6590-4bb9-9b98-b402a4048c07_2" copyof="#m-0d38b512-6590-4bb9-9b98-b402a4048c07"></syl>
                                     </verse>
                                 </note>
                                 <note xml:id="m-adf2233d-9bf8-413b-9d23-f82f71bead5d_2" dur="longa" oct="3" pname="d" copyof="#m-adf2233d-9bf8-413b-9d23-f82f71bead5d">
                                     <verse xml:id="m-e8ad4d01-1eef-47cb-9416-86acdd24c9d8_2" color="black" n="1" copyof="#m-e8ad4d01-1eef-47cb-9416-86acdd24c9d8">
-                                        <syl xml:id="m-b3172bc2-1f88-453a-aaf4-1f48d37216bc_2" copyof="#m-b3172bc2-1f88-453a-aaf4-1f48d37216bc">non</syl>
+                                        <syl xml:id="m-b3172bc2-1f88-453a-aaf4-1f48d37216bc_2" copyof="#m-b3172bc2-1f88-453a-aaf4-1f48d37216bc"></syl>
                                     </verse>
                                 </note>
                                 <barLine form="dashed"/>
@@ -2202,7 +2203,7 @@
 
                                 <note xml:id="m-f72c2df0-90c7-4cad-93c1-6d85a000ccdf_2" dur="longa" oct="3" pname="g" copyof="#m-f72c2df0-90c7-4cad-93c1-6d85a000ccdf">
                                     <verse xml:id="m-8666a017-9a01-493a-be32-1e8c42cd29df_2" color="black" n="1" copyof="#m-8666a017-9a01-493a-be32-1e8c42cd29df">
-                                        <syl xml:id="m-d4d1e0d6-b0c7-43bd-8f05-d2e88df9f04e_2" copyof="#m-d4d1e0d6-b0c7-43bd-8f05-d2e88df9f04e">est</syl>
+                                        <syl xml:id="m-d4d1e0d6-b0c7-43bd-8f05-d2e88df9f04e_2" copyof="#m-d4d1e0d6-b0c7-43bd-8f05-d2e88df9f04e"></syl>
                                     </verse>
                                 </note>
                                 <barLine form="dashed"/>
@@ -2214,7 +2215,7 @@
                                 <barLine form="dashed"/>
                                 <note xml:id="m-cd9e9072-509f-4751-9368-ce60c1959053_2" dur="brevis" oct="3" pname="g" copyof="#m-cd9e9072-509f-4751-9368-ce60c1959053">
                                     <verse xml:id="m-a9211acb-be42-4d41-a5f4-0597b956eb24_2" color="black" n="1" copyof="#m-a9211acb-be42-4d41-a5f4-0597b956eb24">
-                                        <syl xml:id="m-d6aa5294-a913-4d6e-96a9-4ba8f2138cfb_2" copyof="#m-d6aa5294-a913-4d6e-96a9-4ba8f2138cfb">qui</syl>
+                                        <syl xml:id="m-d6aa5294-a913-4d6e-96a9-4ba8f2138cfb_2" copyof="#m-d6aa5294-a913-4d6e-96a9-4ba8f2138cfb"></syl>
                                     </verse>
                                 </note>
 
@@ -2223,7 +2224,7 @@
                                 <rest xml:id="m-35072018-8ef0-4748-8893-bdc5cf7dba1a_2" dur="brevis" copyof="#m-35072018-8ef0-4748-8893-bdc5cf7dba1a"/>
                                 <note xml:id="m-f95d95a7-9801-4cb0-977f-b78b82b2f735_2" dur="longa" oct="3" pname="g" copyof="#m-f95d95a7-9801-4cb0-977f-b78b82b2f735">
                                     <verse xml:id="m-342a0373-78b8-499c-83e7-88410d474b57_2" color="black" n="1" copyof="#m-342a0373-78b8-499c-83e7-88410d474b57">
-                                        <syl xml:id="m-09d1413d-0fa5-4746-93b9-e8a5e135317c_2" copyof="#m-09d1413d-0fa5-4746-93b9-e8a5e135317c">adjuvat</syl>
+                                        <syl xml:id="m-09d1413d-0fa5-4746-93b9-e8a5e135317c_2" copyof="#m-09d1413d-0fa5-4746-93b9-e8a5e135317c"></syl>
                                     </verse>
                                 </note>
                                 <barLine form="dashed"/>
