@@ -1329,7 +1329,7 @@
                                 <note xml:id="m-52726818-fd82-4e8a-affa-3397031a5d93" dur="minima" oct="3" pname="b"/>
                                 <note xml:id="m-d3d0d83f-525f-42d3-8200-c426ded8f532" dur="minima" oct="4" pname="c"/>
                                 <note xml:id="m-43e1e475-565e-4e69-8952-49558b9d15b7" dur="minima" oct="3" pname="b"/>
-                                <note xml:id="m-7b629d7e-e4b3-44e8-aff7-ee2ad819b39e" dur="minima" oct="4" pname="c" accid="s"/>
+                                <note xml:id="m-7b629d7e-e4b3-44e8-aff7-ee2ad819b39e" dur="minima" oct="4" pname="c"/>
                                 <barLine form="dashed"/>
                                 <note xml:id="m-0b4e0e19-333a-4d83-bf28-2d7dc44d820e" dur="longa" oct="3" pname="a" dur.quality="perfecta" num="2" numbase="3">
                                     <verse xml:id="m-6c3fd3a1-827c-486d-b824-91c67af44a81" color="black" n="1">
