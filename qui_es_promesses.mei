@@ -120,7 +120,7 @@
                                         <syl xml:id="m-3e20e224-6326-4635-8ad1-30497fe5d14e">ses</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="m-477c17a3-90a8-4139-930f-2f857f6e58bc" dur="minima" oct="4" pname="b">
+                                <note xml:id="m-477c17a3-90a8-4139-930f-2f857f6e58bc" dur="minima" oct="4" pname="b" accid.ges="f">
                                     <verse xml:id="m-578b024d-17f1-4c33-8d44-6ebd816b0fb2" color="black" n="1">
                                         <syl xml:id="m-44c17337-1a70-4001-bb46-b3aaa97f4b90">De</syl>
                                     </verse>
@@ -172,7 +172,7 @@
                                         <syl xml:id="m-6c40c1d7-d86f-42ae-b52b-ecbff38fc09c">es</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="m-b716dd30-48db-4494-a0ae-827ba735d8de" dur="minima" oct="4" pname="b">
+                                <note xml:id="m-b716dd30-48db-4494-a0ae-827ba735d8de" dur="minima" oct="4" pname="b" accid.ges="f">
                                     <verse xml:id="m-957ec85f-b4f3-43fe-8d90-0b6b7f815b6d" color="black" n="1">
                                         <syl xml:id="m-402be4e0-1cf8-49ff-972b-58de2f5d2b16" con="d" wordpos="i">ri</syl>
                                     </verse>
@@ -187,7 +187,7 @@
                                         <syl xml:id="m-1bb1fccd-c726-4f0a-b09d-c5329e4402e3" wordpos="t">ses</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="m-44f9d09d-8145-46df-b45b-ff421e20d65c" dur="minima" oct="4" pname="b">
+                                <note xml:id="m-44f9d09d-8145-46df-b45b-ff421e20d65c" dur="minima" oct="4" pname="b" accid.ges="f">
                                     <verse xml:id="m-134008ac-6a8a-41a8-a02d-35f6d6173a7b" color="black" n="1">
                                         <syl xml:id="m-8b523cf2-2f82-4417-9fd7-2b14135e52b0">De</syl>
                                     </verse>
@@ -208,7 +208,7 @@
                                         <syl xml:id="m-222ef7bc-c329-4796-ba47-12387e695b75" con="d" wordpos="i">s'as</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="m-25375011-3bba-4c65-84ff-21f11eb08520" dur="minima" oct="4" pname="b">
+                                <note xml:id="m-25375011-3bba-4c65-84ff-21f11eb08520" dur="minima" oct="4" pname="b" accid.ges="f">
                                     <verse xml:id="m-0ebac08d-5404-474c-b490-3e7545d224d3" color="black" n="1">
                                         <syl xml:id="m-14f3c9fe-d452-4044-9448-bd9711a99727" con="d" wordpos="m">se</syl>
                                     </verse>
@@ -445,7 +445,7 @@
                                         <syl xml:id="m-93990692-e89f-4476-a384-335ffb43016c">sans</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="m-8fe37e7a-7b63-4b3e-9d50-52d5dfb38580" dur="minima" oct="4" pname="f">
+                                <note xml:id="m-8fe37e7a-7b63-4b3e-9d50-52d5dfb38580" dur="minima" oct="4" pname="f" accid.ges="s" >
                                     <verse xml:id="m-67090cea-1fd4-4075-bad2-50adb0fda5cf" color="black" n="1">
                                         <syl xml:id="m-e13827e6-1aa0-42f4-aa69-fef78476d152" con="d" wordpos="i">me</syl>
                                     </verse>
@@ -612,7 +612,7 @@
                                         <syl xml:id="m-b13d4b0e-280d-413a-84d6-f203225fe47b" con="d" wordpos="i">faus</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="m-c8c3be68-908d-416c-9585-67eb20084367" dur="semibrevis" oct="4" pname="f">
+                                <note xml:id="m-c8c3be68-908d-416c-9585-67eb20084367" dur="semibrevis" oct="4" pname="f" accid.ges="s">
                                     <verse xml:id="m-4af750f5-83d7-44d4-b228-65df5be7427d" color="black" n="1">
                                         <syl xml:id="m-36989ec9-c57d-4729-bd17-1d7f00e9e598" wordpos="t">se</syl>
                                     </verse>
@@ -644,7 +644,7 @@
                                     </verse>
                                 </note>
                                 <barLine form="dashed"/>
-                                <note xml:id="m-1cb893f1-24d5-47c1-b1bb-e7caebeb305e" dur="minima" oct="4" pname="f">
+                                <note xml:id="m-1cb893f1-24d5-47c1-b1bb-e7caebeb305e" dur="minima" oct="4" pname="f" accid.ges="s">
                                     <verse xml:id="m-9128f005-d8ea-4c8a-9096-d17b646cd8e6" color="black" n="1">
                                         <syl xml:id="m-cc73ee7b-ed56-42c5-b793-84f0403f8b92">nuls</syl>
                                     </verse>
@@ -685,7 +685,7 @@
                                         <syl xml:id="m-10839981-115a-496e-85bc-633537363d9a" wordpos="t">tre</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="m-943506c2-520e-4d6b-9325-75002c15d71e" dur="minima" oct="4" pname="f">
+                                <note xml:id="m-943506c2-520e-4d6b-9325-75002c15d71e" dur="minima" oct="4" pname="f" accid.ges="s">
                                     <verse xml:id="m-f7e99d99-c6dd-47ea-b454-911ed651b4c1" color="black" n="1">
                                         <syl xml:id="m-2dedf784-736b-4967-81b5-12f2f49bd6ac" con="d" wordpos="i">cu</syl>
                                     </verse>
@@ -781,7 +781,7 @@
                                         <syl xml:id="m-d7b55c52-5ce7-4ecf-accb-5bbaf3b8a03b">vens,</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="m-756e68fd-bd9f-4570-9e87-5ac94959152e" dur="minima" oct="4" pname="b">
+                                <note xml:id="m-756e68fd-bd9f-4570-9e87-5ac94959152e" dur="minima" oct="4" pname="b" accid.ges="f">
                                     <verse xml:id="m-70462e64-3d1f-4fc1-8f17-78dfe5b15d18" color="black" n="1">
                                         <syl xml:id="m-0d1aab13-f282-483b-985a-1d97c4be6239">ne</syl>
                                     </verse>
@@ -1021,7 +1021,7 @@
                                         <syl xml:id="m-d71abaf4-4dd2-41f1-a694-34189b7432d7" wordpos="t">al</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="m-b5f09cbf-e455-4eb3-bf3f-c4155b547c9f" dur="minima" oct="4" pname="c">
+                                <note xml:id="m-b5f09cbf-e455-4eb3-bf3f-c4155b547c9f" dur="minima" oct="4" pname="c" accid.ges="s">
                                     <verse xml:id="m-3b120b00-5f7a-4b38-8149-9999000afdd0" color="black" n="1">
                                         <syl xml:id="m-0a8c8aaa-8475-4bee-a200-863e10c4be0c" con="d" wordpos="i">re</syl>
                                     </verse>
@@ -1149,7 +1149,7 @@
                                         <syl xml:id="m-7aa11055-160b-4704-b939-680c7e881d45" con="d" wordpos="i">mor</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="m-8f3d2d1d-a2f1-4185-a588-1de3fe8c593e" dur="minima" oct="4" pname="f">
+                                <note xml:id="m-8f3d2d1d-a2f1-4185-a588-1de3fe8c593e" dur="minima" oct="4" pname="f" accid.ges="s">
                                     <verse xml:id="m-37143b59-0e4e-409a-81bd-2e4376966361" color="black" n="1">
                                         <syl xml:id="m-d8ece809-e3f6-45e9-8371-1f428930acdb" wordpos="t">tel</syl>
                                     </verse>
@@ -1212,7 +1212,7 @@
                                         <syl xml:id="m-202cb44b-ae2f-4405-8f02-87ec250b8845" con="d" wordpos="i">nor</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="m-c1b9447e-3568-481e-a40b-ce84644f2d65" dur="minima" oct="4" pname="b">
+                                <note xml:id="m-c1b9447e-3568-481e-a40b-ce84644f2d65" dur="minima" oct="4" pname="b" accid.ges="f">
                                     <verse xml:id="m-a0d5ddbb-db3d-488f-ba9d-e99db386b1ff" color="black" n="1">
                                         <syl xml:id="m-8ae90d61-40d6-4cb6-a5c0-4f74e97b24c5" con="d" wordpos="m">ri</syl>
                                     </verse>
@@ -1316,7 +1316,7 @@
 
                                 <choice>
                                     <corr>
-                                        <note xml:id="m-0ed0e963-f82d-4e63-b95f-7e877183bc76" dur="semibrevis" oct="3" pname="b" dur.quality="perfecta" num="2" numbase="3"/>
+                                        <note xml:id="m-0ed0e963-f82d-4e63-b95f-7e877183bc76" dur="semibrevis" oct="3" pname="b" dur.quality="perfecta" num="2" numbase="3" accid.ges="f" />
                                         <dot xml:id="m-cee7e306-04b0-4798-ba29-d7ec5b35ee9c" form="aug"/>
                                     </corr>
                                     <sic>
@@ -1326,9 +1326,9 @@
                                 </choice>
                                 <note xml:id="m-30458f6e-afa5-44b2-96ff-d2643f5df8c7" dur="minima" oct="3" pname="a"/>
 
-                                <note xml:id="m-52726818-fd82-4e8a-affa-3397031a5d93" dur="minima" oct="3" pname="b"/>
+                                <note xml:id="m-52726818-fd82-4e8a-affa-3397031a5d93" dur="minima" oct="3" pname="b" accid.ges="f"/>
                                 <note xml:id="m-d3d0d83f-525f-42d3-8200-c426ded8f532" dur="minima" oct="4" pname="c"/>
-                                <note xml:id="m-43e1e475-565e-4e69-8952-49558b9d15b7" dur="minima" oct="3" pname="b"/>
+                                <note xml:id="m-43e1e475-565e-4e69-8952-49558b9d15b7" dur="minima" oct="3" pname="b" accid.ges="f"/>
                                 <note xml:id="m-7b629d7e-e4b3-44e8-aff7-ee2ad819b39e" dur="minima" oct="4" pname="c"/>
                                 <barLine form="dashed"/>
                                 <note xml:id="m-0b4e0e19-333a-4d83-bf28-2d7dc44d820e" dur="longa" oct="3" pname="a" dur.quality="perfecta" num="2" numbase="3">
@@ -1363,7 +1363,7 @@
                                         <syl xml:id="m-683e4a7a-5c83-4275-a6fc-2349b194b9ae">loing</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="m-5376b2c3-b683-4d54-8396-9e314d6b292f" dur="semibrevis" oct="3" pname="f">
+                                <note xml:id="m-5376b2c3-b683-4d54-8396-9e314d6b292f" dur="semibrevis" oct="3" pname="f" accid.ges="s">
                                     <verse xml:id="m-7ecdd9b7-ee39-43cb-b3ba-a7f262217898" color="black" n="1">
                                         <syl xml:id="m-581a413b-8e7e-49c7-8116-883b407b4f7b">de</syl>
                                     </verse>
@@ -1646,7 +1646,7 @@
                                         <syl xml:id="m-71d9cd7a-5ab6-4d44-b29e-dd9326cda54f"> a</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="m-6dd647f0-c86c-4006-8c22-a2db2ea6fa21" dur="minima" oct="4" pname="f">
+                                <note xml:id="m-6dd647f0-c86c-4006-8c22-a2db2ea6fa21" dur="minima" oct="4" pname="f" accid.ges="s">
                                     <verse xml:id="m-9ce06b3a-2df0-428b-b49a-db26c494a14d" color="black" n="1">
                                         <syl xml:id="m-90d2e071-7923-4691-8bf8-1c35c071e440" con="d" wordpos="i">con</syl>
                                     </verse>
@@ -1720,11 +1720,11 @@
                                         <syl xml:id="m-d4c06746-6ab7-4000-b581-ae7263ff330e">ne</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="m-e6f4882c-1b77-470d-abc9-82ab6d741f8c" dur="minima" oct="3" pname="b"/>
+                                <note xml:id="m-e6f4882c-1b77-470d-abc9-82ab6d741f8c" dur="minima" oct="3" pname="b" accid.ges="f"/>
                                 <note xml:id="m-72d2d0a4-52f4-45e9-bea7-61c1c1431433" dur="minima" oct="4" pname="c"/>
                                 <note xml:id="m-8e05a125-efa6-4fab-9fb9-b0df155764f7" dur="minima" oct="4" pname="d"/>
 
-                                <note xml:id="m-f5ecf93f-7022-4b7c-b957-c2f0b3812ad3" dur="semibrevis" oct="3" pname="b" dur.quality="perfecta" num="2" numbase="3">
+                                <note xml:id="m-f5ecf93f-7022-4b7c-b957-c2f0b3812ad3" dur="semibrevis" oct="3" pname="b" dur.quality="perfecta" num="2" numbase="3" accid.ges="f">
                                     <verse xml:id="m-8b35c039-1d04-420b-9aa4-74f3efbef9ff" color="black" n="1">
                                         <syl xml:id="m-58b95f40-574f-4cb1-a481-a10d9d43deb9" con="d" wordpos="i">des</syl>
                                     </verse>
@@ -1895,7 +1895,7 @@
                                         <syl xml:id="m-9983106d-c55d-4888-9d20-8e05e7918b36">de</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="m-bf297c8a-61c7-4cc5-ba7f-bfc4d393866d" dur="minima" oct="4" pname="c"/>
+                                <note xml:id="m-bf297c8a-61c7-4cc5-ba7f-bfc4d393866d" dur="minima" oct="4" pname="c" accid.ges="s"/>
                                 <note xml:id="m-b9608c16-621f-4a93-a832-4ba87b73bc75" dur="minima" oct="4" pname="d"/>
                                 <note xml:id="m-33d41441-92d8-4d27-9410-700edd00c531" dur="minima" oct="4" pname="e"/>
                                 <note xml:id="m-5715ad3a-d9ae-4b6d-a7ec-f6fc82341e6f" dur="longa" oct="4" pname="d">
@@ -1940,7 +1940,7 @@
                                         <syl xml:id="m-b0c97638-fe0c-49f7-b291-e4e24b9fedf0" con="d" wordpos="i">ti</syl>
                                     </verse>
                                 </note>
-                                <note xml:id="m-5a43e572-46d5-4e91-9875-aacfa378eb23" dur="semibrevis" oct="4" pname="f">
+                                <note xml:id="m-5a43e572-46d5-4e91-9875-aacfa378eb23" dur="semibrevis" oct="4" pname="f" accid.ges="s">
                                     <verse xml:id="m-dad1354f-387b-4ea3-993a-46528a6ac67b" color="black" n="1">
                                         <syl xml:id="m-2f2db69e-66b9-415e-b6dd-e22fcd678a4b" wordpos="t">on.</syl>
                                     </verse>

@@ -1,0 +1,1197 @@
+<staff n="1">
+    <layer n="1">
+        <note xml:id="m-e91993d1-58d9-455a-96a4-5e710ac77307" dur="brevis" oct="4" pname="a">
+            <verse xml:id="m-08731e65-3a18-4586-bb2f-8e64e8b2c1e6" color="black" n="1">
+                <syl xml:id="m-a2a82efe-75c7-4974-a7f0-632c854e3fa6">Qui</syl>
+            </verse>
+        </note>
+        <note xml:id="m-0a0a061e-74fb-4277-8ad4-9b2e447ab781" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-19ebfc8c-91c2-462f-9712-f26ad29abc81" color="black" n="1">
+                <syl xml:id="m-31d20876-75b3-4533-a087-70c5ec59e60b">es</syl>
+            </verse>
+        </note>
+        <note xml:id="m-56fab703-3f99-4fbe-bb2b-a0f33a05d872" dur="semibrevis" oct="4" pname="d">
+            <verse xml:id="m-abe8f837-32b0-4caf-b757-c6df05c90eec" color="black" n="1">
+                <syl xml:id="m-b3012e42-b74b-4592-a14b-a23ec2537aaf" con="d" wordpos="i">pro</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-df059cbb-723a-4ab5-aee5-c0a427e16a3a" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-92f45c3e-e640-4e15-be8b-27e6aeff8fca" color="black" n="1">
+                <syl xml:id="m-8f9a5349-a045-4631-a1ac-f517f03dbd41" con="d" wordpos="m">mes</syl>
+            </verse>
+        </note>
+        <note xml:id="m-45c66de8-b111-466e-813e-462ae7daebda" dur="minima" oct="4" pname="g"/>
+        <note xml:id="m-f527a8cf-4102-4291-8c4a-24324624c483" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-87737495-8b10-492a-a1f2-0fcf33205f34" color="black" n="1">
+                <syl xml:id="m-3e20e224-6326-4635-8ad1-30497fe5d14e">ses</syl>
+            </verse>
+        </note>
+        <note xml:id="m-477c17a3-90a8-4139-930f-2f857f6e58bc" dur="minima" oct="4" pname="b">
+            <verse xml:id="m-578b024d-17f1-4c33-8d44-6ebd816b0fb2" color="black" n="1">
+                <syl xml:id="m-44c17337-1a70-4001-bb46-b3aaa97f4b90">De</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-bf7cdd39-f7b6-4f76-a4ea-988303d6cfd5" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-9e2a587f-8edd-45c1-9c81-e5a81023f488" color="black" n="1">
+                <syl xml:id="m-b039f1b6-255a-4c2b-8564-9702616b4713" con="d" wordpos="i">For</syl>
+            </verse>
+        </note>
+        <note xml:id="m-b95a4b9d-35f0-4ece-8e03-7173997e33a3" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-9d90d57b-1e72-4a3b-8ae4-0ed54a724327" color="black" n="1">
+                <syl xml:id="m-f2831c95-804a-469c-b82f-3575518e925a" con="d" wordpos="m">tu</syl>
+            </verse>
+        </note>
+        <note xml:id="m-fb19bcef-8267-4c7a-873d-3d623b87a1dc" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-991a196b-48dc-4742-99f1-a237db26563c" color="black" n="1">
+                <syl xml:id="m-751f3c04-23c9-43c1-8b40-b9dbe8fbbc95" wordpos="t">ne</syl>
+            </verse>
+        </note>
+        <note xml:id="m-7ab1a61d-82cb-46a1-b4bd-1bdf6dbbbc45" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-e470138c-bff1-471f-a5d5-323b1ae192f4" color="black" n="1">
+                <syl xml:id="m-21f89495-ffd2-496b-889d-1a752a75d22d">se</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-4194d016-5c2f-46e5-9298-fa2e3db51e02" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-cc1974b0-0e96-4e11-b2f0-87ba10dedaec" color="black" n="1">
+                <syl xml:id="m-3d2cb0bd-e3e9-420d-8eb5-67a441dbcd58" con="d" wordpos="i">fi</syl>
+            </verse>
+        </note>
+        <note xml:id="m-32b277b1-3d6c-449c-833f-a790e09f1bf4" dur="minima" oct="4" pname="f"/>
+        <note xml:id="m-0c0e531f-a8db-4b56-91e4-2809fd093be6" dur="minima" oct="4" pname="e"/>
+        <note xml:id="m-5839b276-835a-46d3-a809-252d49ffad0b" dur="minima" oct="4" pname="f"/>
+        <note xml:id="m-4cdc2752-fc2f-438f-8ba8-c14ca31dc716" dur="brevis" oct="4" pname="d">
+            <verse xml:id="m-c42c166b-17ab-4aa9-adc3-84694e12f0c7" color="black" n="1">
+                <syl xml:id="m-c75a4755-4c93-4df3-a0f3-e53bd3cd7a69">e.</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-d78c4c1b-070b-4800-8e52-436c693612e5" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-e6b1f751-9a4a-4d81-9f41-b8d05f3b6e40" color="black" n="1">
+                <syl xml:id="m-85b8d99d-dd58-4283-85a1-6e0f9b75b86b">Et</syl>
+            </verse>
+        </note>
+        <note xml:id="m-c0f9831f-9824-4977-9991-34e3dd47ab57" dur="minima" oct="4" pname="g"/>
+        <note xml:id="m-ca91dbaf-fb54-44a8-b8e9-82e1f7319daf" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-dc33d56d-5583-404b-aba3-9308d9374f88" color="black" n="1">
+                <syl xml:id="m-6c40c1d7-d86f-42ae-b52b-ecbff38fc09c">es</syl>
+            </verse>
+        </note>
+        <note xml:id="m-b716dd30-48db-4494-a0ae-827ba735d8de" dur="minima" oct="4" pname="b">
+            <verse xml:id="m-957ec85f-b4f3-43fe-8d90-0b6b7f815b6d" color="black" n="1">
+                <syl xml:id="m-402be4e0-1cf8-49ff-972b-58de2f5d2b16" con="d" wordpos="i">ri</syl>
+            </verse>
+        </note>
+        <note xml:id="m-1db5f01d-ebb6-4894-9f1c-cd8371a2fbdf" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-fad3778a-cb3f-4156-bfd0-f7dde4e3bf8b" color="black" n="1">
+                <syl xml:id="m-a441ced9-b34a-4bdb-945a-f31b655811f0" con="d" wordpos="m">ches</syl>
+            </verse>
+        </note>
+        <note xml:id="m-bb1d557f-73af-43b9-bfa5-ce99e9ba25d3" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-719a7b24-04cc-448a-9784-cc92551d8735" color="black" n="1">
+                <syl xml:id="m-1bb1fccd-c726-4f0a-b09d-c5329e4402e3" wordpos="t">ses</syl>
+            </verse>
+        </note>
+        <note xml:id="m-44f9d09d-8145-46df-b45b-ff421e20d65c" dur="minima" oct="4" pname="b">
+            <verse xml:id="m-134008ac-6a8a-41a8-a02d-35f6d6173a7b" color="black" n="1">
+                <syl xml:id="m-8b523cf2-2f82-4417-9fd7-2b14135e52b0">De</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-a61af06f-1e24-434a-a11c-f3d54330988a" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-ea5c8c5d-b5bb-4894-b95f-99c494c37c73" color="black" n="1">
+                <syl xml:id="m-c7d06939-5a87-4e16-b197-8f8fa751e114">ses</syl>
+            </verse>
+        </note>
+        <note xml:id="m-51e28f5c-cdb5-4c58-bb04-b3e5771a62c9" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-fcb36a68-ac9b-484e-bab7-da2123354b50" color="black" n="1">
+                <syl xml:id="m-fcc11b38-892a-4ceb-80b7-38fb19280ad3">dons</syl>
+            </verse>
+        </note>
+        <note xml:id="m-a093ab18-aada-4a97-85f1-542755f9681d" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-6ff480b9-89d6-4e0a-a9bd-21f35fd45468" color="black" n="1">
+                <syl xml:id="m-222ef7bc-c329-4796-ba47-12387e695b75" con="d" wordpos="i">s'as</syl>
+            </verse>
+        </note>
+        <note xml:id="m-25375011-3bba-4c65-84ff-21f11eb08520" dur="minima" oct="4" pname="b">
+            <verse xml:id="m-0ebac08d-5404-474c-b490-3e7545d224d3" color="black" n="1">
+                <syl xml:id="m-14f3c9fe-d452-4044-9448-bd9711a99727" con="d" wordpos="m">se</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-b4767bbf-f89e-4c39-abb5-0889b9f07119" dur="semibrevis" oct="4" pname="g">
+            <verse xml:id="m-e0e46d31-818f-423d-88c7-caf5e01d2e86" color="black" n="1">
+                <syl xml:id="m-72f4e3f2-77a4-4ec1-8a73-43e8996e87d6" wordpos="t">ure.</syl>
+            </verse>
+        </note>
+        <note xml:id="m-e9572667-3636-4ae1-95d3-5464d0854508" dur="semibrevis" oct="4" pname="g">
+            <verse xml:id="m-061d8bcd-df6f-4add-8bf3-5c59f39772fb" color="black" n="1">
+                <syl xml:id="m-9c7ac0b5-2c01-4d2c-ae09-308686c5f7c3">Ou</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-67e272c5-2435-4279-b494-2f7ddd52f9cc" dur="longa" oct="4" pname="e">
+            <verse xml:id="m-83915fda-b6e4-4b3a-bca2-a4e9712bb8be" color="black" n="1">
+                <syl xml:id="m-37230c2e-2327-4d86-9b7c-e3c6b58fb403">cils</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+
+        <note xml:id="m-058d7439-af04-4fa0-a4e7-0c5e80bda4fd" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-0769a339-87f4-42d3-a8ef-3d06dc0a3ad7" color="black" n="1">
+                <syl xml:id="m-812f39a1-8e08-4117-b85b-6cc7943c680d">qui</syl>
+            </verse>
+        </note>
+        <note xml:id="m-05d21a33-8a89-432d-853a-42045773842b" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-05f4c7c6-f0df-4cf0-a100-5b92e88fc46e" color="black" n="1">
+                <syl xml:id="m-d237e5dc-79b3-4329-b50e-0c9591088fb2">croit</syl>
+            </verse>
+        </note>
+        <note xml:id="m-7330de48-ae19-4806-a214-3664cb4b7c4a" dur="minima" oct="4" pname="e">
+            <verse xml:id="m-edb6c70d-361e-40ca-9d4b-bb65f3fc3ea2" color="black" n="1">
+                <syl xml:id="m-d909b6db-dedf-4632-a04c-91d5294177fa" con="d" wordpos="i">Qu'el</syl>
+            </verse>
+        </note>
+        <note xml:id="m-0e52c240-9560-4f21-81da-13e25aec0e39" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-73041bea-f73b-4410-9bb6-586b5608d2bc" color="black" n="1">
+                <syl xml:id="m-ac54266b-45af-457b-af64-1b3c6ab7b726" wordpos="t">le</syl>
+            </verse>
+        </note>
+        <note xml:id="m-2b060b79-ef74-4afc-8ac9-ea92ca508fc5" dur="minima" oct="4" pname="d">
+            <verse xml:id="m-6d76efa9-eb82-4242-92d9-34867711f4c6" color="black" n="1">
+                <syl xml:id="m-4a85ff2c-9811-4078-ba5c-640df00211c9">soit</syl>
+            </verse>
+        </note>
+        <note xml:id="m-005133fc-1597-4e77-868a-6e8cc0eff673" dur="minima" oct="4" pname="e">
+            <verse xml:id="m-ad3ec635-7b69-4e6a-8e63-a323d3f56618" color="black" n="1">
+                <syl xml:id="m-e7ee68b0-cda1-4b87-bb0c-884cdece909c">tant</syl>
+            </verse>
+        </note>
+        <note xml:id="m-4ac237e7-ef26-4e43-a31c-5c6ae88dbfda" dur="minima" oct="4" pname="d">
+            <verse xml:id="m-2de23a41-e1fc-478b-885e-2b3708ec3fd5" color="black" n="1">
+                <syl xml:id="m-3df78b4f-f6ec-4265-84ee-3759cc771dce" con="d" wordpos="i">s'a</syl>
+            </verse>
+        </note>
+        <note xml:id="m-e8e7460c-3038-4ba9-a0b6-66ef5563217f" dur="minima" oct="4" pname="c">
+            <verse xml:id="m-05e40ab3-c1dd-4ead-98cf-64ccd26108ee" color="black" n="1">
+                <syl xml:id="m-9b99a6f9-f57a-4bbb-b92b-bd0f582e06db" con="d" wordpos="m">mi</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-c95a4593-b5b4-4fbb-95c2-551a5227c486" dur="semibrevis" oct="4" pname="d">
+            <verse xml:id="m-7c22ff2a-86f9-4ae3-968f-bdbc1b170cd0" color="black" n="1">
+                <syl xml:id="m-bdecf7cc-e8df-4288-b0bd-145f7eedde69" wordpos="t"> e.</syl>
+            </verse>
+        </note>
+        <note xml:id="m-cd78e6df-06ca-4155-916c-14902da3700b" dur="semibrevis" oct="4" pname="d">
+            <verse xml:id="m-99dd4b3d-3da7-45de-b33a-e94c11761de3" color="black" n="1">
+                <syl xml:id="m-0b0c8d40-9177-4bbb-918a-adda54314864">Que</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <rest xml:id="m-e301819f-ddf2-4df0-b91b-6a49b9558c91" dur="minima"/>
+        <note xml:id="m-5aee1733-6758-4628-8e30-c3438b4cb263" dur="semibrevis" oct="4" pname="g">
+            <verse xml:id="m-b0fe1ef4-05a5-44dc-81e8-3a57756e4fd0" color="black" n="1">
+                <syl xml:id="m-492b0c70-bf4f-4aa6-8478-ae6d8c8de86f">pour</syl>
+            </verse>
+        </note>
+        <note xml:id="m-e2da977e-720a-4bc7-b3c9-89665451101e" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-5a67bc97-1613-4263-a519-36c56c5db1ee" color="black" n="1">
+                <syl xml:id="m-a77dffe8-26d6-441f-8464-342af3d02dfd">li</syl>
+            </verse>
+        </note>
+        <note xml:id="m-e35041a6-76ac-4a30-98e7-3ad64d5e0a25" dur="semibrevis" oct="4" pname="g">
+            <verse xml:id="m-e743c98c-a7c2-4b37-9ca5-8c7b9072d65d" color="black" n="1">
+                <syl xml:id="m-6dfc015a-7362-4c59-a0c1-34430351dbd1">soit</syl>
+            </verse>
+        </note>
+        <note xml:id="m-f11d1e7d-6872-4d13-b359-d975f095dfbb" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-1a60e227-752f-40bd-9257-77be784707ef" color="black" n="1">
+                <syl xml:id="m-a576f025-09b0-4e1f-8161-72d33fa86942">En</syl>
+            </verse>
+        </note>
+        <note xml:id="m-a048c22c-d713-4b1c-94fa-d5bca93b7bd4" dur="semibrevis" oct="4" pname="g">
+            <verse xml:id="m-9c0a069a-bddd-44b6-872c-7e36e96c8478" color="black" n="1">
+                <syl xml:id="m-0364d43c-5058-4873-97c7-50495e8ef649">riens</syl>
+            </verse>
+        </note>
+        <note xml:id="m-6bf6fe40-0d5c-4b1b-8b0b-ad503a1ed65e" dur="semibrevis" oct="4" pname="e">
+            <verse xml:id="m-bf7b6678-a149-46e6-bb18-603d81b6f060" color="black" n="1">
+                <syl xml:id="m-67e2cc70-bfab-4fb2-bfa1-5d12ed76dc65" con="d" wordpos="i">fer</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-74f0a989-4d80-4680-a09f-802a4e601152" dur="semibrevis" oct="4" pname="f">
+            <accid xml:id="m-ca41bd08-670f-4d35-aaf2-ac0e7d40498e" accid="s"/>
+            <verse xml:id="m-4f7cc232-293f-44c7-8a2b-52cd948753da" color="black" n="1">
+                <syl xml:id="m-196a539b-81ed-4f40-886b-9b72702d703d" wordpos="t">ou</syl>
+            </verse>
+        </note>
+        <note xml:id="m-7e263e0e-7fb6-43d3-8c58-ad4057206834" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-9d4c23dc-2e51-4a1f-a2c3-e1c3e3ee59bf" color="black" n="1">
+                <syl xml:id="m-1571fcf7-fc5e-4aa5-a568-e0c615ceff2c" con="d" wordpos="i">se</syl>
+            </verse>
+        </note>
+        <note xml:id="m-74107e45-ba3a-4133-9023-4d8a4766f20d" dur="semibrevis" oct="4" pname="g">
+            <verse xml:id="m-34e06cb3-1ae2-425e-a39a-ee3e333e9dbb" color="black" n="1">
+                <syl xml:id="m-8b1a28c6-0820-4b4c-9b46-5da8b7193393" con="d" wordpos="m"> u</syl>
+            </verse>
+        </note>
+        <note xml:id="m-f5536eee-8a9b-4c35-984e-32e1656d0e24" dur="semibrevis" oct="4" pname="g">
+            <verse xml:id="m-b495f26a-4069-4a8c-aae8-6c73788f9de8" color="black" n="1">
+                <syl xml:id="m-917a293f-3ef6-45ef-907d-11865bf495ac" wordpos="t">re,</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-c15a722e-6587-4424-80a5-feb47e78ed05" dur="brevis" oct="4" pname="e">
+            <verse xml:id="m-5094847b-4d9f-413b-807c-7d8c5055a44c" color="black" n="1">
+                <syl xml:id="m-13e856b4-97d5-4589-af84-6eb1f8921585">Il</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-d0e23dbf-0b7f-432b-93d5-35e4cc879be0" dur="minima" oct="4" pname="c">
+            <verse xml:id="m-3d37504d-8169-437f-820a-fc4e786ddcff" color="black" n="1">
+                <syl xml:id="m-860f6593-2f44-4097-8bfd-c78f42319755">est</syl>
+            </verse>
+        </note>
+        <note xml:id="m-9ac4b1fd-8641-42ea-9e27-d411d2655cdb" dur="semibrevis" oct="4" pname="e">
+            <verse xml:id="m-347fed27-205c-4a26-af46-b0748759a04f" color="black" n="1">
+                <syl xml:id="m-1c38fe31-64c4-476a-b982-1654e4a93438">trop</syl>
+            </verse>
+        </note>
+        <note xml:id="m-d00266d0-1278-4f53-9c5f-d0c59da414d1" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-8867aafa-811e-4eeb-87be-b60d33b01709" color="black" n="1">
+                <syl xml:id="m-91ff99f7-70a3-42cd-a2cc-e0757524fe84">fols</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-616bfe28-9283-4e2a-b3ad-b3aa9ca274f4" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-6f7840e2-ba09-4fad-ab45-92834d7aca96" color="black" n="1">
+                <syl xml:id="m-a7e9f8f4-e53d-410e-afe7-620af5cf9e76">car</syl>
+            </verse>
+        </note>
+        <note xml:id="m-04b489ea-aebc-4866-bc3b-6c86b44cc7a1" dur="semibrevis" oct="4" pname="e">
+            <verse xml:id="m-1fc38946-a935-42b0-85f8-874c1892cfa4" color="black" n="1">
+                <syl xml:id="m-ab2e9575-7309-4b79-bfe0-fb103b20e83e">elle</syl>
+            </verse>
+        </note>
+        <note xml:id="m-a1722b5f-de01-4976-8a03-2ea030599720" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-7f4a8db1-7693-4ed4-9b40-f831a9d8c839" color="black" n="1">
+                <syl xml:id="m-f439988e-b832-4151-9be9-9204d5663725">est</syl>
+            </verse>
+        </note>
+        <note xml:id="m-e3438edb-b4c4-4157-9130-e5174b6fe349" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-002dc255-4cfc-43b7-9ef0-43cce37a51d3" color="black" n="1">
+                <syl xml:id="m-eeb2df04-7c31-4abe-bf78-1128e69b55b2">non</syl>
+            </verse>
+        </note>
+        <note xml:id="m-6791992d-0743-4197-b794-d33e31323780" dur="semibrevis" oct="4" pname="e">
+            <verse xml:id="m-84e2708a-e97e-4ac5-a95a-ad63744606fb" color="black" n="1">
+                <syl xml:id="m-296069b8-6d8f-4ef9-8fa7-f8a8096b968f" con="d" wordpos="i">se</syl>
+            </verse>
+        </note>
+        <note xml:id="m-a28bad20-f3b4-44d4-9b13-be6985eb2d08" dur="minima" oct="4" pname="d">
+            <verse xml:id="m-029d183a-3bbb-4719-9177-5eb66efdf64d" color="black" n="1">
+                <syl xml:id="m-cf382ec2-0068-4337-8c92-701c70d7fda8" con="d" wordpos="m"> u</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+
+        <note xml:id="m-37cf71c6-50df-4a4a-ac7a-3d02d01519a7" dur="brevis" oct="4" pname="f">
+            <verse xml:id="m-956f3276-7f8e-4edd-9f55-3062cb699fb3" color="black" n="1">
+                <syl xml:id="m-698c1506-8a99-4108-a647-33822ef8cd0d" wordpos="t">re.</syl>
+            </verse>
+        </note>
+        <rest xml:id="m-36754808-75a3-432a-8c04-84439041d9da" dur="brevis"/>
+
+        <note xml:id="m-4befb2ef-02b1-4dd3-957d-0196e2d90093" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-bce676ad-5869-43c7-8196-56501530eacf" color="black" n="1">
+                <syl xml:id="m-a6dfc677-b38e-47c9-bde7-63c27c3186c9">Sans</syl>
+            </verse>
+        </note>
+        <note xml:id="m-3655001e-8f7e-4800-a6f6-c08318b2288f" dur="minima" oct="4" pname="g"/>
+        <note xml:id="m-98eb26e1-8ddf-4252-a8c7-5dc63bb96ddb" dur="minima" oct="4" pname="f"/>
+        <note xml:id="m-d4016b4f-b1a6-493b-9757-44fc8c916390" dur="minima" oct="4" pname="e"/>
+        <barLine form="dashed"/>
+        <note xml:id="m-5f0363d7-5645-4b0c-835b-97f96769ed20" dur="semibrevis" oct="4" pname="d">
+            <verse xml:id="m-f3901384-0a89-4203-aa2b-571e6cd9d909" color="black" n="1">
+                <syl xml:id="m-c0ee472d-81cc-4c78-a4bd-6e1033c22451">foy,</syl>
+            </verse>
+        </note>
+        <note xml:id="m-0830c41c-86ed-43b8-ae55-fdf76e867e86" dur="semibrevis" oct="4" pname="d">
+            <verse xml:id="m-0b49afdb-c7dc-475b-b37d-3c87cad1a580" color="black" n="1">
+                <syl xml:id="m-8b1c4a0a-7c4d-4959-9960-23994788645a">sans</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-543e3757-2db8-4a6b-ae63-87c4d2d190ed" dur="semibrevis" oct="4" pname="c">
+            <verse xml:id="m-e637f80e-4fc6-40ac-bc3e-d8349a44bab8" color="black" n="1">
+                <syl xml:id="m-9e0cd462-e818-447e-9585-599bb609e1a5">loy,</syl>
+            </verse>
+        </note>
+        <note xml:id="m-23a6c52b-e9f0-4c4e-a6b9-a4f1a2f2cbaf" dur="semibrevis" oct="4" pname="c">
+            <verse xml:id="m-a6e58874-32e5-4b97-9e40-df23a26aac11" color="black" n="1">
+                <syl xml:id="m-c7f11bbe-b39c-4b1e-bb32-99b0ec78f15f">sans</syl>
+            </verse>
+        </note>
+        <note xml:id="m-21030d04-fe62-4ebc-8cb2-149252f90421" dur="minima" oct="4" pname="f">
+            <accid xml:id="m-6188d90e-4bc6-4d37-bbcf-3b6a69009639" accid="s"/>
+            <verse xml:id="m-26fa378d-b980-4d69-bbf4-fd6f165ceb3c" color="black" n="1">
+                <syl xml:id="m-bc81debf-7a47-496a-985e-4d3a65dc2991">droit,</syl>
+            </verse>
+        </note>
+        <note xml:id="m-61f0f98c-73a4-481d-965d-a6e08d9b0e89" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-fd7c1512-c2f4-4aee-b029-802838b4f2df" color="black" n="1">
+                <syl xml:id="m-5408e455-3969-4784-8b96-bc8b6750e4fd">et</syl>
+            </verse>
+        </note>
+        <note xml:id="m-4840a198-3572-43c9-99df-8c4bce8df821" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-7214c718-1111-422b-ba1b-5fcf26c7a480" color="black" n="1">
+                <syl xml:id="m-93990692-e89f-4476-a384-335ffb43016c">sans</syl>
+            </verse>
+        </note>
+        <note xml:id="m-8fe37e7a-7b63-4b3e-9d50-52d5dfb38580" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-67090cea-1fd4-4075-bad2-50adb0fda5cf" color="black" n="1">
+                <syl xml:id="m-e13827e6-1aa0-42f4-aa69-fef78476d152" con="d" wordpos="i">me</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+
+        <note xml:id="m-73683410-7623-4567-9859-dee72e508c6e" dur="semibrevis" oct="4" pname="g">
+            <verse xml:id="m-fe3e4b76-1b8e-485f-8630-ae1b9bf8bf71" color="black" n="1">
+                <syl xml:id="m-169b7196-f4fd-4ed1-b598-f148475e6513" con="d" wordpos="m">su</syl>
+            </verse>
+        </note>
+        <note xml:id="m-1515f58a-5989-4fd4-b7d2-2e725ea1992c" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-37c7cf44-96e2-4ebc-a453-bdca2545d574" color="black" n="1">
+                <syl xml:id="m-6f1abb7a-022e-4d9f-b3a4-5a4c3617c837" wordpos="t">re,</syl>
+            </verse>
+        </note>
+        <note xml:id="m-35316cec-fcf7-442b-a4dc-39e1c01d3b50" dur="longa" oct="4" pname="g">
+            <verse xml:id="m-21f449ff-11c8-4f20-9bb6-b4104f987847" color="black" n="1">
+                <syl xml:id="m-c1ec5d11-18c5-4ac4-b719-acc5b5c4c217">C'est</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-74156c54-331d-4a1b-be31-e47a2693535e" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-de0d3441-2ab1-492a-a847-7b0d421d8582" color="black" n="1">
+                <syl xml:id="m-88a07dae-f87d-4cb6-bde2-50fe1108e00a">fiens</syl>
+            </verse>
+        </note>
+        <note xml:id="m-07f84923-9279-4791-84d0-e6a03ad521d7" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-280f44cf-5ab6-46ff-b7da-34f146cd22ac" color="black" n="1">
+                <syl xml:id="m-f9432d6e-b0b1-4984-99c8-73ab7e147745" con="d" wordpos="i">cou</syl>
+            </verse>
+        </note>
+        <note xml:id="m-1eaebfb3-6518-4114-9540-2831f2dade4a" dur="minima" oct="4" pname="e">
+            <verse xml:id="m-db70762e-1060-406f-a616-783a78ab23af" color="black" n="1">
+                <syl xml:id="m-8a9689db-71b7-4fd4-bdc3-024e6cc17d69" wordpos="t">vers</syl>
+            </verse>
+        </note>
+        <note xml:id="m-174d517a-5c29-4da7-b3ff-a1df306f90b8" dur="minima" oct="4" pname="e">
+            <verse xml:id="m-9256439a-8ff5-4b1f-b58c-8ef24644b502" color="black" n="1">
+                <syl xml:id="m-a6f4cb4d-27a5-4074-abdd-6dec7e5cd336">de</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-e8238446-23b0-4c06-a141-b085ae8b48ed" dur="minima" oct="4" pname="d">
+            <verse xml:id="m-77b2261b-461d-4d94-b848-adfe8d299ca0" color="black" n="1">
+                <syl xml:id="m-d4ef11f5-a953-4f81-bb89-62a774dd682a" con="d" wordpos="i">ri</syl>
+            </verse>
+        </note>
+        <note xml:id="m-dc8a26b8-86ac-41d8-b7c3-ca78bc0550e8" dur="minima" oct="4" pname="c">
+            <verse xml:id="m-b1a3d32c-c80e-4153-bc59-8e64fca937d7" color="black" n="1">
+                <syl xml:id="m-ef396f3b-bcbe-4f88-9562-977dd488bd0b" wordpos="t">che</syl>
+            </verse>
+        </note>
+        <note xml:id="m-fee71752-d5d5-4c0e-bd2b-77e3c8614ddb" dur="minima" oct="4" pname="d">
+            <verse xml:id="m-62777ac0-089d-45c0-9331-6a48df01f82e" color="black" n="1">
+                <syl xml:id="m-032d331b-4c0a-4c2e-b3cd-9fa54b7fcb11" con="d" wordpos="i">cou</syl>
+            </verse>
+        </note>
+        <note xml:id="m-2e2d1b25-6866-4a53-9894-3bcd6f39224f" dur="minima" oct="4" pname="e">
+            <verse xml:id="m-a900d25e-51ff-43f5-b13c-d1f92308db87" color="black" n="1">
+                <syl xml:id="m-996db4b1-fd28-4e8b-9b46-57982aba3e10" con="d" wordpos="m">ver</syl>
+            </verse>
+        </note>
+        <note xml:id="m-f4eb7fdb-ea5e-41ce-b927-1a59a79906d5" dur="semibrevis" oct="4" pname="c">
+            <verse xml:id="m-dca97566-f713-4800-ad3a-ae0ed534f10b" color="black" n="1">
+                <syl xml:id="m-df696535-8f24-4830-b527-0b63f4fe3f33" con="d" wordpos="m">tu</syl>
+            </verse>
+        </note>
+        <note xml:id="m-9512f578-ca85-46a2-a694-2c561a4394e8" dur="semibrevis" oct="4" pname="c">
+            <verse xml:id="m-e227289d-4dba-47bf-a5b9-583d7c26cd9d" color="black" n="1">
+                <syl xml:id="m-d2e60754-2d33-49db-9927-553457876d48" wordpos="t">re</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+
+        <note xml:id="m-41ed2227-5877-4a3e-8f4d-2fcf4fdd6329" dur="longa" oct="4" pname="d">
+            <verse xml:id="m-414ef72a-7f50-4f87-8918-603af673face" color="black" n="1">
+                <syl xml:id="m-d5b5d6f0-a9f7-400c-a046-af8cf5908962">Qui</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-b8007e8c-ab7d-4c97-9d9c-3672f9518ff8" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-e582dbdc-b439-486b-afbe-2ed2ecf99751" color="black" n="1">
+                <syl xml:id="m-5683fa70-6559-4a70-9fc9-8aa4d3ed9506" con="d" wordpos="i">de</syl>
+            </verse>
+        </note>
+        <note xml:id="m-8ad471d8-c2b2-4563-8f1f-c92f3e049ef0" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-129f869b-b312-4329-b94e-42257efed78e" color="black" n="1">
+                <syl xml:id="m-0280e106-e509-4d57-8212-b10b8d41fa42" wordpos="t">hors</syl>
+            </verse>
+        </note>
+        <note xml:id="m-dab3d7bb-12d5-4a56-9dd7-cd62e3c83a94" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-0cad9c66-8fab-4ecb-ab85-204f59683394" color="black" n="1">
+                <syl xml:id="m-f8c7cf20-555f-4a73-8c80-1a2a48e124cf">luist</syl>
+            </verse>
+        </note>
+        <note xml:id="m-e9155309-a8c1-491c-b42c-5322c3a424d0" dur="minima" oct="4" pname="e">
+            <verse xml:id="m-55c4b828-252e-4aa1-a9df-dd064ffd7c93" color="black" n="1">
+                <syl xml:id="m-1ccf271a-8b35-4677-9fee-cfb037780618">et</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-78419320-8c5a-422b-8012-8cf6eb1505c9" dur="minima" oct="4" pname="d">
+            <verse xml:id="m-441715fc-0b02-47da-94e4-6b79524e9396" color="black" n="1">
+                <syl xml:id="m-efcb70fe-1ec5-446e-b925-8e854f40b504" con="d" wordpos="i">de</syl>
+            </verse>
+        </note>
+        <note xml:id="m-ac3e0ba1-7ce0-490e-b93e-685b9e599a46" dur="minima" oct="4" pname="c">
+            <verse xml:id="m-e4db1d44-1d73-4f32-be8d-b0f4e637cbca" color="black" n="1">
+                <syl xml:id="m-4ffc452c-29de-4398-84c3-89bec06902e0" wordpos="t">dens</syl>
+            </verse>
+        </note>
+        <note xml:id="m-bd2d9b49-a675-46da-a71b-bdb7404731f2" dur="minima" oct="4" pname="d">
+            <verse xml:id="m-c7962b82-454d-4889-b237-1a45770036de" color="black" n="1">
+                <syl xml:id="m-db6f081d-6287-412c-a1b9-a7294b4d8c9a">est</syl>
+            </verse>
+        </note>
+        <note xml:id="m-342771b0-5b53-460a-ad8d-1db3a804fa5f" dur="minima" oct="4" pname="e">
+            <verse xml:id="m-29a97c9e-f574-4607-85ed-d5397020e3bd" color="black" n="1">
+                <syl xml:id="m-554f7634-1961-4a08-ad17-0b5121081fd0" con="d" wordpos="i">or</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-a82fbaf1-a6fe-424d-a0be-fbf986d848bd" dur="semibrevis" oct="4" pname="d">
+            <verse xml:id="m-8211c350-cc88-4a62-911f-ef2b01e7e68c" color="black" n="1">
+                <syl xml:id="m-13f78809-5190-4c8d-9f0a-4fd416df6810" con="d" wordpos="m">du</syl>
+            </verse>
+        </note>
+        <note xml:id="m-b57f9b7a-aa1f-4308-9d11-5cb21a97d06e" dur="semibrevis" oct="4" pname="c">
+            <verse xml:id="m-4e9a8ced-84b3-4287-b6ca-1921c730fbe9" color="black" n="1">
+                <syl xml:id="m-5d8416a7-4bd7-45f8-be45-fd1aae5578c3" wordpos="t">re,</syl>
+            </verse>
+        </note>
+        <note xml:id="m-53592190-6971-4016-8202-f72d5d0332e6" dur="brevis" oct="4" pname="d">
+            <verse xml:id="m-232bbafb-7069-4f7b-8274-42e42f181648" color="black" n="1">
+                <syl xml:id="m-5cf4ce49-7787-488b-817b-193e0da1c2e9">Une</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <rest xml:id="m-1989eb56-9542-4b94-8838-64a9fd0e32f9" dur="minima"/>
+        <note xml:id="m-b1eb7867-b92e-4159-916a-490cd8c11255" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-3031c1a4-548e-451d-a4ab-855c8ecb7d41" color="black" n="1">
+                <syl xml:id="m-447a30eb-0754-4419-afdc-4b98425add07" con="d" wordpos="i"> y</syl>
+            </verse>
+        </note>
+        <note xml:id="m-fe7f561b-b887-4877-8fff-6eb087f9f427" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-00b99755-72d5-40a5-b507-3f484a188b68" color="black" n="1">
+                <syl xml:id="m-9ba0ce91-f112-4f33-b339-eeacf99ecf2f" wordpos="t">dole</syl>
+            </verse>
+        </note>
+        <note xml:id="m-2c3af42f-0e87-4f6c-9423-ebe109a90f7f" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-debf2c1f-ee56-40e1-a8dd-539f6ebc1fd7" color="black" n="1">
+                <syl xml:id="m-4d986354-182c-4790-bf5f-12816de5ec6e">est</syl>
+            </verse>
+        </note>
+        <note xml:id="m-a5b2fe12-e262-45b9-9d8a-2161880373ee" dur="semibrevis" oct="4" pname="g">
+            <verse xml:id="m-f7d08520-614c-4f5e-b15b-cfd029cab666" color="black" n="1">
+                <syl xml:id="m-6cc13dc6-6a00-43fc-a53e-862f24a95452">de</syl>
+            </verse>
+        </note>
+        <note xml:id="m-5c431c37-b763-44f9-86ea-0bdb2fb789f4" dur="semibrevis" oct="4" pname="f">
+            <accid xml:id="m-7c0e877d-0548-4435-93d5-895bfcdd592d" accid="s"/>
+            <verse xml:id="m-e8c8aed0-00c8-4b74-b3ef-647c6cc97490" color="black" n="1">
+                <syl xml:id="m-b13d4b0e-280d-413a-84d6-f203225fe47b" con="d" wordpos="i">faus</syl>
+            </verse>
+        </note>
+        <note xml:id="m-c8c3be68-908d-416c-9585-67eb20084367" dur="semibrevis" oct="4" pname="f">
+            <verse xml:id="m-4af750f5-83d7-44d4-b228-65df5be7427d" color="black" n="1">
+                <syl xml:id="m-36989ec9-c57d-4729-bd17-1d7f00e9e598" wordpos="t">se</syl>
+            </verse>
+        </note>
+        <note xml:id="m-5f02f634-531d-4f69-bf72-9d979ac52604" dur="semibrevis" oct="4" pname="g">
+            <verse xml:id="m-fdebeb4f-a06f-41c8-b8da-72c01fcfc5d4" color="black" n="1">
+                <syl xml:id="m-1d7b10cd-1192-4694-a2a9-cb98cc3744fe" con="d" wordpos="i">pour</syl>
+            </verse>
+        </note>
+        <note xml:id="m-34ef84da-4852-4fa4-aab0-6e3eca5b087d" dur="minima" oct="4" pname="d">
+            <verse xml:id="m-bdcbe457-2968-4212-8b45-94baaf1943c8" color="black" n="1">
+                <syl xml:id="m-6053d261-dae0-4a64-9d6b-5be97309da25" con="d" wordpos="m">trai</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-b319463c-5800-4325-a70b-c5b16638bd40" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-4b3bec65-027b-4723-9dd1-e7d7de39bbdf" color="black" n="1">
+                <syl xml:id="m-51906c90-ad8c-4dd9-afaf-399d6f609512" con="d" wordpos="m">tu</syl>
+            </verse>
+        </note>
+        <note xml:id="m-2c474f27-9e74-4f7b-8290-2ec4dfb2c52f" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-44393f2f-6ee3-4915-acd9-8e2a5e27cdcd" color="black" n="1">
+                <syl xml:id="m-ec3435e9-fb49-442f-a5c6-7424cc8fd963">re,</syl>
+            </verse>
+        </note>
+        <note xml:id="m-0fa275ef-646c-482c-800a-cdb351c392cf" dur="brevis" oct="4" pname="e">
+            <verse xml:id="m-88991695-f055-4509-84e6-efede6465061" color="black" n="1">
+                <syl xml:id="m-21a7d23b-e642-403d-bed2-3a8fc6be8dc4">Ou</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-1cb893f1-24d5-47c1-b1bb-e7caebeb305e" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-9128f005-d8ea-4c8a-9096-d17b646cd8e6" color="black" n="1">
+                <syl xml:id="m-cc73ee7b-ed56-42c5-b793-84f0403f8b92">nuls</syl>
+            </verse>
+        </note>
+        <note xml:id="m-fb153fb3-5150-496c-ac85-9e029b60ba4f" dur="semibrevis" oct="4" pname="e">
+            <verse xml:id="m-22b96737-ad52-4eca-8602-66def4fa4f3c" color="black" n="1">
+                <syl xml:id="m-d6c05ca4-9daa-4cec-9307-d431ef8341ea">ne</syl>
+            </verse>
+        </note>
+        <note xml:id="m-825c6d2a-6984-429f-a6b0-78edf977075e" dur="minima" oct="4" pname="d">
+            <verse xml:id="m-27c5bcd8-2de2-4c19-9820-e476615b6569" color="black" n="1">
+                <syl xml:id="m-79a40a30-56d6-482c-b966-eb1c5a49937c">doit</syl>
+            </verse>
+        </note>
+        <note xml:id="m-0dc44b17-6957-4224-b1b8-b454fc5a2162" dur="minima" oct="4" pname="d">
+            <verse xml:id="m-202d0df9-cc0d-424d-a4c6-8d0542b349c1" color="black" n="1">
+                <syl xml:id="m-63b83a3f-c46f-434e-89d2-1ffd6f1733ed" con="d" wordpos="i">croi</syl>
+            </verse>
+        </note>
+        <note xml:id="m-e19edcb2-733c-45d7-ba86-dd1d16c3c047" dur="semibrevis" oct="4" pname="e">
+            <verse xml:id="m-7fd70806-9e0b-4949-8696-12c45bf5bd45" color="black" n="1">
+                <syl xml:id="m-ce7ec7c2-2561-402f-9f4f-4fc324dc6ea3" wordpos="t">re</syl>
+            </verse>
+        </note>
+        <note xml:id="m-68d9b8a9-543d-4940-9ae8-9473e5a489a0" dur="minima" oct="4" pname="d">
+            <verse xml:id="m-a1755f9c-89af-493a-9249-49d7b0881e16" color="black" n="1">
+                <syl xml:id="m-dad8aedc-911b-455d-8a95-9496c5f3dc95">ne</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-97e6791e-395e-4a0d-97c4-f077400722a8" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-39549787-52ca-41a3-960a-e9ec18635f14" color="black" n="1">
+                <syl xml:id="m-907967f8-a8fc-4398-80fe-5a59dd750fb6" con="d" wordpos="i">met</syl>
+            </verse>
+        </note>
+        <note xml:id="m-4d326870-ac71-46d0-9d2c-91a231d04361" dur="semibrevis" oct="4" pname="g">
+            <verse xml:id="m-cc0f8358-4944-4849-bc37-fbb1c5210234" color="black" n="1">
+                <syl xml:id="m-10839981-115a-496e-85bc-633537363d9a" wordpos="t">tre</syl>
+            </verse>
+        </note>
+        <note xml:id="m-943506c2-520e-4d6b-9325-75002c15d71e" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-f7e99d99-c6dd-47ea-b454-911ed651b4c1" color="black" n="1">
+                <syl xml:id="m-2dedf784-736b-4967-81b5-12f2f49bd6ac" con="d" wordpos="i">cu</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-d1244619-d4a1-40fd-a372-2e4b2183fbdc" dur="brevis" oct="4" pname="g">
+            <verse xml:id="m-eddd054e-efba-4b22-85c7-1a54c8c14464" color="black" n="1">
+                <syl xml:id="m-2517d2f3-35f7-46c7-89bd-8001b035797d">re.</syl>
+            </verse>
+        </note>
+
+        <rest xml:id="m-23fd16c9-e49c-4bc0-b3fb-d5c7bc5bd9df" dur="brevis"/>
+        <note xml:id="m-43e06225-21ff-4396-a4f3-e5f1694a6f3f" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-d0262c2c-70cd-4aa0-bdf3-00bbb1e0a44f" color="black" n="1">
+                <syl xml:id="m-a98f58d3-d416-495a-9c30-627d733dbd4c">Sa</syl>
+            </verse>
+        </note>
+        <note xml:id="m-25e1c7fb-b0a3-4cee-a2a1-7a43823d39b9" dur="minima" oct="4" pname="g"/>
+        <note xml:id="m-5ef0819d-c302-4ad5-897a-8b68472d6243" dur="minima" oct="4" pname="f"/>
+        <note xml:id="m-7460a0b6-f6bd-4c06-961c-9a82a51a0c52" dur="minima" oct="4" pname="e"/>
+        <barLine form="dashed"/>
+        <note xml:id="m-acd87690-adcc-48e0-9a45-482fda48f1d3" dur="semibrevis" oct="4" pname="d">
+            <verse xml:id="m-070ff85c-b40d-45bb-ace0-b896e215c3ff" color="black" n="1">
+                <syl xml:id="m-c96339de-9850-4d54-b327-f0e98b40fd0b" con="d" wordpos="i">con</syl>
+            </verse>
+        </note>
+        <note xml:id="m-ea2f9490-f7c3-4822-a565-b720e1a95b0f" dur="semibrevis" oct="4" pname="d">
+            <verse xml:id="m-2a9617e7-dae0-47d3-9982-c9ea0ff9edeb" color="black" n="1">
+                <syl xml:id="m-1e8e2905-df0e-4122-9c37-b69ab1acf04c" con="d" wordpos="m">ve</syl>
+            </verse>
+        </note>
+        <note xml:id="m-3214c64a-64cf-4e99-acc9-6905e967ddc8" dur="semibrevis" oct="4" pname="c">
+            <verse xml:id="m-86705b67-4b9e-44bf-99a0-9e472b73b785" color="black" n="1">
+                <syl xml:id="m-e97b45a3-044a-4ea7-b2d9-43b4e3326572" wordpos="t">nance</syl>
+            </verse>
+        </note>
+        <note xml:id="m-8d1b1210-c8d9-4882-bf23-9c28c24bf2a3" dur="semibrevis" oct="4" pname="e">
+            <verse xml:id="m-e716a63b-4f67-48d9-a8b3-acd88089df74" color="black" n="1">
+                <syl xml:id="m-bb4d5ad0-b6e7-4800-895c-fd0b35fa94c9">en</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-18e6a572-81af-4979-a306-8548582f9402" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-072d6085-67ad-4051-946c-079ee88b357e" color="black" n="1">
+                <syl xml:id="m-ef521a4b-3202-466a-af6e-baab27f4bd7a" con="d" wordpos="i">ver</syl>
+            </verse>
+        </note>
+        <note xml:id="m-69764d48-a934-42ab-954e-78147bcbf60f" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-c858a498-8c26-4eb1-893d-87a49cc4dbd5" color="black" n="1">
+                <syl xml:id="m-db78550e-1816-468c-9f54-29a4153d0f96" wordpos="t">tu</syl>
+            </verse>
+        </note>
+        <note xml:id="m-ea339383-d0dd-4005-abd3-5a8a93811177" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-e262619f-db19-42b9-9fd8-c581cb6c576d" color="black" n="1">
+                <syl xml:id="m-5ef5de85-fe5d-499b-802f-803fb226922d">pas</syl>
+            </verse>
+        </note>
+        <note xml:id="m-e77236cd-a864-48ab-8c9b-a503f14380bc" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-1a422bfe-b3e5-473d-909a-3e6a69429993" color="black" n="1">
+                <syl xml:id="m-1a8bf6f8-74a7-4689-92f6-db0992a47b3d">ne</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-564f57e1-4091-4fed-bcfc-b6e278d16d53" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-f8d5ece7-7711-4ab4-b749-c8882e31abbb" color="black" n="1">
+                <syl xml:id="m-86bf02fd-0fb8-4ecd-bbac-4e00231647ef" con="d" wordpos="i">du</syl>
+            </verse>
+        </note>
+        <note xml:id="m-135daf4c-40a3-448b-a9dd-e3ba8002f472" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-9b3d180d-fde2-4844-a0c7-a7ac1493b7ca" color="black" n="1">
+                <syl xml:id="m-b8c13ea2-7e8c-441a-a5a4-2b99362b7ccf" wordpos="t">re,</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-6e4e2cb7-75a7-4bc6-876a-bbee23da71f0" dur="longa" oct="4" pname="g">
+            <verse xml:id="m-a383be15-ae53-4018-b82f-fc866419072b" color="black" n="1">
+                <syl xml:id="m-d460bc4a-45f0-4b92-9fa1-05597fe41c9f">Car</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-406aeca1-b974-4aa5-9548-edd0d325eaa9" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-ee39197b-c93b-4aad-b3b7-54d9833696e5" color="black" n="1">
+                <syl xml:id="m-2738fe1b-d446-4dc0-a0c5-9205ef61ea2a">c'est</syl>
+            </verse>
+        </note>
+        <note xml:id="m-afc692a8-1260-4cad-b38d-06584c2add49" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-bda908ed-f9f7-47e4-9273-4da3f5503d5d" color="black" n="1">
+                <syl xml:id="m-d3907ada-700b-4cf9-a1e1-edb38ee61c96">tous</syl>
+            </verse>
+        </note>
+        <note xml:id="m-c26ba22e-1801-4c28-9716-71786fd2b1c5" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-fa37d5d5-cc8b-4339-81a5-3b704146652b" color="black" n="1">
+                <syl xml:id="m-d7b55c52-5ce7-4ecf-accb-5bbaf3b8a03b">vens,</syl>
+            </verse>
+        </note>
+        <note xml:id="m-756e68fd-bd9f-4570-9e87-5ac94959152e" dur="minima" oct="4" pname="b">
+            <verse xml:id="m-70462e64-3d1f-4fc1-8f17-78dfe5b15d18" color="black" n="1">
+                <syl xml:id="m-0d1aab13-f282-483b-985a-1d97c4be6239">ne</syl>
+            </verse>
+        </note>
+        <note xml:id="m-ac7a95d2-e5dd-4fba-bf99-aae41a1de46e" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-e4d76492-6948-4244-9a3f-cfafc4cfe97d" color="black" n="1">
+                <syl xml:id="m-39527348-0177-4174-b019-e4425ec193be">riens</syl>
+            </verse>
+        </note>
+        <note xml:id="m-12ba88a5-a48a-4d2d-8478-dd7cafb5f7be" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-80c1ce84-86ed-4de5-b916-09c522ffacf1" color="black" n="1">
+                <syl xml:id="m-6c110511-27ea-4975-b072-6013b3fb2994">qu'el</syl>
+            </verse>
+        </note>
+        <note xml:id="m-64df0bb2-1265-4115-974e-bce8b44e1486" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-d67880b3-66af-4e51-891e-28837a9a16ff" color="black" n="1">
+                <syl xml:id="m-89ca3647-e788-41a6-aeb3-7eb50890dcc2">le</syl>
+            </verse>
+        </note>
+        <note xml:id="m-3f6a7b1d-63f1-4b8d-9738-9f0605fe2333" dur="minima" oct="4" pname="e">
+            <verse xml:id="m-69266134-4a34-49a2-8c69-20ad3119e5b2" color="black" n="1">
+                <syl xml:id="m-38d32cb3-5fac-4d4b-8a7d-06f811366720" con="d" wordpos="i">fi</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-1820dc12-d890-44a5-bc10-389b07828b05" dur="semibrevis" oct="4" pname="d">
+            <verse xml:id="m-1c77b1da-9114-4d8a-a2b9-b90105580d24" color="black" n="1">
+                <syl xml:id="m-3720a67c-1910-4962-ae87-aa0ed605a459" con="d" wordpos="m">gu</syl>
+            </verse>
+        </note>
+        <note xml:id="m-c0166933-d79c-4622-91ef-efd50d572d12" dur="semibrevis" oct="4" pname="c">
+            <verse xml:id="m-4f0baea8-e435-4192-90d5-fcf530eae4e7" color="black" n="1">
+                <syl xml:id="m-dc1d77f9-0cf1-4e21-a02c-339ef86429eb" wordpos="t">re</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-c1461c23-afa8-4888-9208-7822cba72002" dur="minima" oct="4" pname="d">
+            <verse xml:id="m-461637b1-d462-4eae-889a-9dd785cb433d" color="black" n="1">
+                <syl xml:id="m-2a5849a6-0f92-412e-8ae6-ede0739d8d4e">Ne</syl>
+            </verse>
+        </note>
+        <note xml:id="m-46f3b308-6484-4103-8ec1-8e3273131e71" dur="minima" oct="4" pname="e">
+            <verse xml:id="m-a6f027ed-e7ca-40f6-b58c-22d05fa35cfe" color="black" n="1">
+                <syl xml:id="m-26a7fab7-47f6-4bcd-be57-c3b49458abaf">puet</syl>
+            </verse>
+        </note>
+        <note xml:id="m-a11b5014-16af-42eb-b008-10601ec47340" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-ba0decde-1798-4776-a485-dbb606142eb9" color="black" n="1">
+                <syl xml:id="m-aab301d4-31a0-4c47-9b37-0583b5694aeb" con="d" wordpos="i"> e</syl>
+            </verse>
+        </note>
+        <note xml:id="m-40bf1ac6-efb0-4e80-9b12-0749f4413ed0" dur="minima" oct="4" pname="d">
+            <verse xml:id="m-356f0819-471b-425a-bd2f-e7e51b31be1b" color="black" n="1">
+                <syl xml:id="m-93ffa2ed-8c42-4a27-84e6-241ea16771ee" wordpos="t">stre</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-1096eab2-cdf1-4ae1-85af-7c1a373a8324" dur="longa" oct="4" pname="e">
+            <verse xml:id="m-6b7365b4-2821-4a14-9e92-620217f71c84" color="black" n="1">
+                <syl xml:id="m-c0788f9b-24fb-468a-8ce0-3e0917f1dc3b">fors</syl>
+            </verse>
+        </note>
+
+        <barLine form="dashed"/>
+        <note xml:id="m-44973b1c-364e-4366-a0ae-09b792a2098a" dur="minima" oct="4" pname="e">
+            <verse xml:id="m-8065a0f2-01f5-4393-81f9-30776b2479d3" color="black" n="1">
+                <syl xml:id="m-a5192724-bf99-45b8-b517-c56e5f8733f1">de</syl>
+            </verse>
+        </note>
+        <note xml:id="m-71dea8e7-4849-44e1-a478-b2ab05c06bf5" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-b7abe5bb-1cac-4264-9600-895181680fa0" color="black" n="1">
+                <syl xml:id="m-cba45008-e2a1-40e0-bfd6-c9635f5262a0" con="d" wordpos="i">faus</syl>
+            </verse>
+        </note>
+        <note xml:id="m-183958b5-1b17-4e4c-ba6b-8b532537b27e" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-bc5088d9-1a02-4c0f-b5b0-3afd8c9bdaf1" color="black" n="1">
+                <syl xml:id="m-7e7645af-fd4a-4de3-8c54-4eff7ea86591" wordpos="t">se</syl>
+            </verse>
+        </note>
+        <note xml:id="m-6fbea757-3918-485f-b791-26855b91f25a" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-14b1fb06-67bc-4cdb-9faf-7852a9de6400" color="black" n="1">
+                <syl xml:id="m-e9176e68-5dd8-4cd0-a811-e7b26bf1eebf" con="d" wordpos="i">fi</syl>
+            </verse>
+        </note>
+        <note xml:id="m-34236504-fd80-4b5a-9f9a-e11ac6da61d5" dur="semibrevis" oct="4" pname="g">
+            <verse xml:id="m-2bc0ebbd-e902-4ee3-8b43-4e9db6154f4a" color="black" n="1">
+                <syl xml:id="m-2719d5d8-36fc-4923-aa39-565f7d65551c" con="d" wordpos="m">gu</syl>
+            </verse>
+        </note>
+        <note xml:id="m-4ca28e90-6dd5-45b1-8509-29130c5b35aa" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-02f46967-ee2e-46be-bf68-27ffac3df9a8" color="black" n="1">
+                <syl xml:id="m-f160515f-4ed1-4076-a45f-2e20b8798f5b" wordpos="t">re.</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-938f8431-7fc4-461b-8bfd-1c04a89858f4" dur="brevis" oct="4" pname="g">
+            <verse xml:id="m-575de580-5a7e-4fca-96c0-6c55e049be39" color="black" n="1">
+                <syl xml:id="m-0a7f6abf-fec0-47e0-8366-35202c89a37a">Et</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <rest xml:id="m-7b7dcd2c-b283-4758-8a75-500feffdbfa5" dur="minima"/>
+        <note xml:id="m-fe525abc-f8c7-46dc-855d-908b5d869641" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-3f6b2d28-4b8d-44fa-a1bf-bdda47bd92ef" color="black" n="1">
+                <syl xml:id="m-f5c97521-278c-4de2-a52e-4e26f468d80f">li</syl>
+            </verse>
+        </note>
+        <note xml:id="m-e7e7c379-3246-45cb-a2a6-56ebc8dd1b66" dur="semibrevis" oct="4" pname="f">
+            <verse xml:id="m-0b0ddc23-5c63-48c6-b7fb-66049ffcceb3" color="black" n="1">
+                <syl xml:id="m-480fab25-c2b2-462d-8499-8d67cfb91b21">siens</syl>
+            </verse>
+        </note>
+        <note xml:id="m-02f37cec-1672-4b7f-8748-4fe4426e8d6b" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-1ab4bd89-c782-4390-a46c-1c000cc4283f" color="black" n="1">
+                <syl xml:id="m-eb558dd3-0f12-4131-bc97-e8a8b02c69c7">sont</syl>
+            </verse>
+        </note>
+        <note xml:id="m-35c40944-2443-4109-bb0d-56bc980bd297" dur="semibrevis" oct="4" pname="f">
+            <verse xml:id="m-fdfaec6c-cfd9-4256-afdf-fcece1d6af66" color="black" n="1">
+                <syl xml:id="m-bd0f0332-08d2-4b1e-8a24-a3edfcbf18f9" con="d" wordpos="i">tou</syl>
+            </verse>
+        </note>
+        <note xml:id="m-b570daf2-c4ce-4f0f-85a7-9725834f2f89" dur="semibrevis" oct="4" pname="f">
+            <verse xml:id="m-425ae3bc-8f39-4819-a06c-c04168b2743e" color="black" n="1">
+                <syl xml:id="m-40f40197-eef0-4d02-9f71-f7004ae9f2d4" wordpos="t">dis</syl>
+            </verse>
+        </note>
+        <note xml:id="m-572d2798-feca-41d1-a18e-29320c69bc7a" dur="semibrevis" oct="4" pname="e">
+            <verse xml:id="m-65da4aad-ce87-40f0-8d6e-35f7c7de83c4" color="black" n="1">
+                <syl xml:id="m-c2d74d14-4bbc-4ec2-9d6a-f39c493f952a">en</syl>
+            </verse>
+        </note>
+        <note xml:id="m-97d8856b-563a-4fec-b03b-f758185c2e55" dur="semibrevis" oct="4" pname="d">
+            <verse xml:id="m-24e360b3-7842-464e-b9a1-01cbdc99c82e" color="black" n="1">
+                <syl xml:id="m-9d973718-4050-4a61-a856-6db4df902f87" con="d" wordpos="i"> a</syl>
+            </verse>
+        </note>
+        <note xml:id="m-3ff5ff8a-4adf-4e79-8730-faa9d80c2ec1" dur="minima" oct="4" pname="d">
+            <verse xml:id="m-2ae2b66e-edd3-45b6-b4cf-6ff44619443f" color="black" n="1">
+                <syl xml:id="m-f3df32c8-c0a2-4361-984c-74fa7479dc2b" con="d" wordpos="m">ven</syl>
+            </verse>
+        </note>
+        <note xml:id="m-bf9b5c1c-3aba-4b4f-a7d0-91b9e64d060f" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-8919ab21-e5d7-4eac-98ec-29ba635e1d56" color="black" n="1">
+                <syl xml:id="m-7aa867a4-2db3-4c03-baa3-376efe97a4f0" con="d" wordpos="m">tu</syl>
+            </verse>
+        </note>
+        <note xml:id="m-d9f7c3a1-77ef-44cd-90f3-1997cdd5932c" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-6474c93b-844b-4862-9984-9856fc3b7496" color="black" n="1">
+                <syl xml:id="m-1d507c4f-811f-448d-a042-2f563beac905" wordpos="t">re.</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-bbcce3dd-b3e3-4a88-82d3-3ce0114525a0" dur="brevis" oct="4" pname="d">
+            <verse xml:id="m-fc7a87b7-1b68-4bb6-9942-8558fcce1135" color="black" n="1">
+                <syl xml:id="m-4e49703b-6586-4f55-b9b0-d5e500b9934b">De</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-2aa3a69a-1fbc-4435-96f0-3b8a7381509c" dur="minima" oct="4" pname="e">
+            <verse xml:id="m-b95371a9-b178-4cf2-91db-2c1a1dda7859" color="black" n="1">
+                <syl xml:id="m-8a9a361c-7c5d-4e1b-84fd-5b21dd3a6197" con="d" wordpos="i">tre</syl>
+            </verse>
+        </note>
+        <note xml:id="m-678523f9-0193-4a33-952d-f3401bfb3df4" dur="semibrevis" oct="4" pname="d">
+            <verse xml:id="m-3413f713-436a-4819-be3a-d44747d40260" color="black" n="1">
+                <syl xml:id="m-94f5c639-557b-4887-8967-f7e5c0d8eb93" con="d" wordpos="m">bu</syl>
+            </verse>
+        </note>
+        <note xml:id="m-ad2d7c7b-aeab-478e-ab4d-b1a2255b21b8" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-0e6bdaf5-93df-4e88-b7be-e31608d885a5" color="black" n="1">
+                <syl xml:id="m-717af2f9-8dd6-455d-a071-4ed4439e9efb" wordpos="t">chier</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-f7892440-0d55-4b2a-a5bd-fcc3c29baf45" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-1ba6f5a6-bcf0-4718-ac20-8577776c3a05" color="black" n="1">
+                <syl xml:id="m-772c461b-5148-44d6-97a5-fb6caf570327">car</syl>
+            </verse>
+        </note>
+        <note xml:id="m-1415c908-25fb-40d8-b50f-b8c02db94b99" dur="semibrevis" oct="4" pname="g">
+            <verse xml:id="m-91276a63-7448-474c-a080-b69d3aabe061" color="black" n="1">
+                <syl xml:id="m-2af5d83a-ee89-4998-8e9f-91b439938cc5">par</syl>
+            </verse>
+        </note>
+        <note xml:id="m-2d2fbc89-d681-43f0-859e-ab0983176d11" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-681eefa9-01d3-4160-8f47-5756b22cfd75" color="black" n="1">
+                <syl xml:id="m-b9ee20af-9f1f-465a-9fb4-8996bdaedd69" con="d" wordpos="i">droi</syl>
+            </verse>
+        </note>
+        <note xml:id="m-d9e372f3-93e4-4e3a-a874-0fdee2410b21" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-4123b695-5bb5-4a88-a157-9c1aa3a4cdfd" color="black" n="1">
+                <syl xml:id="m-fb1c9785-c0ee-4db2-bfd6-c5ea363c307b" wordpos="t">te</syl>
+            </verse>
+        </note>
+        <note xml:id="m-3bb0518d-73d0-4a31-b663-e04c3c62da36" dur="semibrevis" oct="4" pname="e">
+            <verse xml:id="m-0a3b3d3a-d60b-4fa3-a5ba-bd513e844698" color="black" n="1">
+                <syl xml:id="m-623a66f2-499f-4a91-afc2-6ba4b275aa11" con="d" wordpos="i">na</syl>
+            </verse>
+        </note>
+        <note xml:id="m-764c6c67-0e9c-4323-bf5b-215fc4be7899" dur="minima" oct="4" pname="d">
+            <verse xml:id="m-b21137bd-5ef8-420e-aa89-6a484c0d6e35" color="black" n="1">
+                <syl xml:id="m-ff33f106-9a47-4b2e-8a6f-ccb77a119c4f" con="d" wordpos="m">tu</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-2b3abd98-1c38-42f9-b75b-888ef9c507b5" dur="brevis" oct="4" pname="c">
+            <accid xml:id="m-515d93a0-403d-40ae-ba37-06bb86a5070c" accid="s"/>
+            <verse xml:id="m-f1f58df1-8584-4b2c-81e2-c7faff83625a" color="black" n="1">
+                <syl xml:id="m-a62a7a28-dd1d-4e0b-9fb0-249fa9db8ea6" wordpos="t">re</syl>
+            </verse>
+        </note>
+        <rest xml:id="m-e6b270b6-c494-40f1-90d1-2aa517d6dd05" dur="brevis"/>
+
+        <note xml:id="m-88e7ea7c-1334-4c54-92fc-055e327574ac" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-cae899ed-18fc-4e08-b1c4-f61e08e244f7" color="black" n="1">
+                <syl xml:id="m-5dc14db8-5f9a-4935-91bc-d9a51fb1de19">La</syl>
+            </verse>
+        </note>
+        <note xml:id="m-7b060711-6705-45a6-8b2e-86e1c3d58594" dur="minima" oct="4" pname="g"/>
+        <note xml:id="m-6bf7f2eb-a88c-466c-bcf4-a07a627ae158" dur="minima" oct="4" pname="f"/>
+        <note xml:id="m-98f85c90-1249-4998-b14b-9f5236db27ac" dur="minima" oct="4" pname="e"/>
+        <barLine form="dashed"/>
+        <note xml:id="m-5713be1f-1f64-47f3-9b3b-92e1eeb2dad8" dur="semibrevis" oct="4" pname="d">
+            <verse xml:id="m-60e80af2-ffd0-44ba-8618-e8eb0cca83cf" color="black" n="1">
+                <syl xml:id="m-9831f743-881b-4003-9686-4c902174357e" con="d" wordpos="i">des</syl>
+            </verse>
+        </note>
+        <note xml:id="m-6bcf6144-6c48-4538-bc68-b595e449df62" dur="semibrevis" oct="4" pname="f">
+            <verse xml:id="m-cbdad7e1-befd-4c18-8287-b7013c994d32" color="black" n="1">
+                <syl xml:id="m-4c2af3ea-df42-4873-aced-3ff377d1cee2" con="d" wordpos="m">loy</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-be1cb84e-21fd-4a10-a850-f699e439b7f5" dur="semibrevis" oct="4" pname="e">
+            <verse xml:id="m-62315e75-2fc1-4e06-9a07-ee4faa2e966a" color="black" n="1">
+                <syl xml:id="m-d71abaf4-4dd2-41f1-a694-34189b7432d7" wordpos="t">al</syl>
+            </verse>
+        </note>
+        <note xml:id="m-b5f09cbf-e455-4eb3-bf3f-c4155b547c9f" dur="minima" oct="4" pname="c">
+            <verse xml:id="m-3b120b00-5f7a-4b38-8149-9999000afdd0" color="black" n="1">
+                <syl xml:id="m-0a8c8aaa-8475-4bee-a200-863e10c4be0c" con="d" wordpos="i">re</syl>
+            </verse>
+        </note>
+        <note xml:id="m-61bbae8e-8c52-42f8-9515-9f97726ed82a" dur="minima" oct="4" pname="d"/>
+        <note xml:id="m-145d61ec-0ebe-4a26-9907-7e7252469970" dur="minima" oct="4" pname="e">
+            <verse xml:id="m-40f2e54c-ace0-45a7-98c0-722e0c2018d8" color="black" n="1">
+                <syl xml:id="m-765be426-9ae6-417a-9949-e58ca6a6a0c5" con="d" wordpos="i">no</syl>
+            </verse>
+        </note>
+        <note xml:id="m-8f904403-441f-434c-8b9d-2dcd2c10f849" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-ece4b86c-cebb-40b4-a101-048e7cc6f8e7" color="black" n="1">
+                <syl xml:id="m-ce02bd8c-ac24-4c48-9910-a6962eadccda" con="d" wordpos="m"> y</syl>
+            </verse>
+        </note>
+        <note xml:id="m-afb366f9-3764-4ccd-b715-321a06abd40c" dur="minima" oct="4" pname="e">
+            <verse xml:id="m-b4f0c671-7302-48f5-bc16-3524f856a29f" color="black" n="1">
+                <syl xml:id="m-e8ed1f48-2259-4d16-891c-11b74d47c4bf" wordpos="t"> e</syl>
+            </verse>
+        </note>
+        <note xml:id="m-aa684789-4680-4af2-a153-414e3f4158ca" dur="minima" oct="4" pname="d">
+            <verse xml:id="m-b12f9eec-4b18-4023-b4d4-587c01a69ceb" color="black" n="1">
+                <syl xml:id="m-16ff0ab3-9199-477f-b655-6907c01cbf9a" con="d" wordpos="i">par</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-7731d975-273f-4625-9ea8-42ae2a510c44" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-3814dec0-1e13-4371-8e11-361fe6c6352a" color="black" n="1">
+                <syl xml:id="m-8dd7e55a-d07e-435b-9699-2c09befc0f41" con="d" wordpos="m">ju</syl>
+            </verse>
+        </note>
+        <note xml:id="m-a5cf3ce7-3faa-4c86-bb4a-15445f539047" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-8af4fa78-b5a1-4ddc-82fe-c5aedc87bb1d" color="black" n="1">
+                <syl xml:id="m-bdad4735-d3bc-46d3-a393-0e74103f9367" wordpos="t">re.</syl>
+            </verse>
+        </note>
+        <note xml:id="m-1d741731-5480-4f20-a4a5-bbc725f98bf1" dur="longa" oct="4" pname="g">
+            <verse xml:id="m-911f50f2-ebaa-4d43-8f6d-1500d34c6198" color="black" n="1">
+                <syl xml:id="m-93d6623c-c98f-46fc-b0c4-b3e543ffd7d0" con="d" wordpos="i">Faus</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-d1bedb2f-64fb-4433-9ebd-fff4b7385087" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-007203e8-d342-422c-a164-c7b5e3193b53" color="black" n="1">
+                <syl xml:id="m-2c806b63-408a-4ec8-accf-29ab335c36c1" wordpos="t">se</syl>
+            </verse>
+        </note>
+        <note xml:id="m-fcda75bc-2044-4374-aa20-c9ab09f1bf99" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-67a92cc0-4cf1-486b-9b89-61c12a796dfe" color="black" n="1">
+                <syl xml:id="m-14f4666b-9c04-4bcb-9c1e-cd5e2a4ba67b" con="d" wordpos="i">trai</syl>
+            </verse>
+        </note>
+        <note xml:id="m-8647a065-b707-4734-9816-2759fad3adad" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-cbe8636b-0f55-40e8-a861-25f42fb7341c" color="black" n="1">
+                <syl xml:id="m-b183b635-9d31-43ec-9682-3f1ce99fb310" wordpos="t">tre</syl>
+            </verse>
+        </note>
+        <note xml:id="m-8a8487d5-d9de-4b52-b7fa-3358493ccda5" dur="minima" oct="4" pname="f"/>
+
+        <note xml:id="m-c21d7d06-d200-456c-9ade-146f5f000199" dur="minima" oct="4" pname="e">
+            <verse xml:id="m-7788597c-16e1-4c26-9fcb-02e9190b357b" color="black" n="1">
+                <syl xml:id="m-4e278cab-011b-41ae-8657-0cb4a0296b19">per</syl>
+            </verse>
+        </note>
+        <note xml:id="m-a428ebe8-df14-449f-a538-10a822a7296f" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-9630c229-84bb-4db7-a43a-0de1c36bd5c1" color="black" n="1">
+                <syl xml:id="m-f614e38a-4452-4736-b819-b19177a28259">verse</syl>
+            </verse>
+        </note>
+        <note xml:id="m-74404eeb-cac7-49fa-b50e-5920aa7e3426" dur="minima" oct="4" pname="e">
+            <verse xml:id="m-78b6ee76-f09a-43f7-8606-ed6fe8d339dd" color="black" n="1">
+                <syl xml:id="m-dc7ccb6c-2f35-4a8d-b0bc-f743b8d6a2c9">et</syl>
+            </verse>
+        </note>
+        <note xml:id="m-d8b53a4b-371a-4517-8d17-1e6a8fc5dd67" dur="minima" oct="4" pname="d">
+            <verse xml:id="m-dd0e42f5-db23-44a4-8ea6-81a5c5443002" color="black" n="1">
+                <syl xml:id="m-f372d13e-d50c-4110-bfe7-0c0923133fd7">mere</syl>
+            </verse>
+        </note>
+        <note xml:id="m-9ec6e1cc-f5a6-4eec-a85d-7a4cbe3347bc" dur="semibrevis" oct="4" pname="e">
+            <verse xml:id="m-47674931-ab59-4123-a891-a620df4f3018" color="black" n="1">
+                <syl xml:id="m-6cd180eb-2d21-41fc-a8fe-1aeeeaa2fec8" con="d" wordpos="i">su</syl>
+            </verse>
+        </note>
+        <note xml:id="m-4bacda8e-5a0f-48d3-9672-de80338765f8" dur="semibrevis" oct="4" pname="e">
+            <verse xml:id="m-19bf3ab9-04b3-4a61-9770-52a40ab88e84" color="black" n="1">
+                <syl xml:id="m-f6ea8c81-41c3-4960-b64c-7fa5b1efb903" wordpos="t">re.</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-98d71446-66a6-4bfc-98e8-3c001b25d66e" dur="semibrevis" oct="4" pname="f">
+            <accid xml:id="m-2dc3c0a6-4860-4da8-9bf1-4429291bace1" accid="s"/>
+            <verse xml:id="m-7640e8a9-651f-49b2-8d13-c87e305f96a4" color="black" n="1">
+                <syl xml:id="m-3a8a0531-f355-46c6-95f9-3db0c9b3b5fe">Oint</syl>
+            </verse>
+        </note>
+        <note xml:id="m-f2f24c2d-4ff6-4cff-83ba-e606d769c7dc" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-82a9a10b-68fc-4d80-9814-422cb7d4ae5f" color="black" n="1">
+                <syl xml:id="m-aa3ac392-c00c-41e6-b30e-53103c254cb5">et</syl>
+            </verse>
+        </note>
+        <note xml:id="m-53b1b0da-26cc-4735-8fe4-6cbff9fc4f60" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-66bec15e-7bd6-4b17-86b2-6099fc842de6" color="black" n="1">
+                <syl xml:id="m-c3400b00-9b72-4108-bdba-498ecacfeffc">puis</syl>
+            </verse>
+        </note>
+        <note xml:id="m-8104f0b6-7d5e-410f-a853-7d7e3bb3ddaf" dur="longa" oct="4" pname="g">
+            <verse xml:id="m-487535b2-c139-4467-842e-a4b2f2eaaa00" color="black" n="1">
+                <syl xml:id="m-3a387be4-c95d-4da2-a89f-1b185777090b">point</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-765a2250-a22c-4651-a1d2-4e016f478f26" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-d4ea9889-775a-4d62-81f0-8d815d9d62c5" color="black" n="1">
+                <syl xml:id="m-8b939546-d55f-4e02-951f-49b97a074ad8">de</syl>
+            </verse>
+        </note>
+        <note xml:id="m-c5d2eaa9-a506-4e95-a93a-c20a98674d56" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-42143ba4-024f-436c-bca4-e9bb33894e1c" color="black" n="1">
+                <syl xml:id="m-3827a571-2ccf-41f4-bd1f-a4f46730fbd9">si</syl>
+            </verse>
+        </note>
+        <note xml:id="m-58995e3a-ddaa-4c83-a925-f3e2ce2ebbf1" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-cd111b4c-e14e-4413-a567-57aafbea35be" color="black" n="1">
+                <syl xml:id="m-7aa11055-160b-4704-b939-680c7e881d45" con="d" wordpos="i">mor</syl>
+            </verse>
+        </note>
+        <note xml:id="m-8f3d2d1d-a2f1-4185-a588-1de3fe8c593e" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-37143b59-0e4e-409a-81bd-2e4376966361" color="black" n="1">
+                <syl xml:id="m-d8ece809-e3f6-45e9-8371-1f428930acdb" wordpos="t">tel</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-d96695bf-fe3e-401a-b2e2-649b27d634c1" dur="semibrevis" oct="4" pname="e">
+            <verse xml:id="m-223d8472-c35d-4beb-9e05-07e30b8a1e65" color="black" n="1">
+                <syl xml:id="m-20c782c1-fa39-4348-a85c-2b37d63d2d7b" con="d" wordpos="i">poin</syl>
+            </verse>
+        </note>
+        <note xml:id="m-f399afed-64d6-4a78-a559-ea4998e83d15" dur="semibrevis" oct="4" pname="c">
+            <verse xml:id="m-0ec75c16-ea29-4751-acea-414b9d6b3af9" color="black" n="1">
+                <syl xml:id="m-1e3bb563-aca6-4996-9866-989866c2dc53" con="d" wordpos="m">tu</syl>
+            </verse>
+        </note>
+        <note xml:id="m-c5f88994-04cf-439c-9c55-3f15bd6a4004" dur="semibrevis" oct="4" pname="d">
+            <verse xml:id="m-164ca6a8-9eef-4a3a-8efb-3b2da18c7b32" color="black" n="1">
+                <syl xml:id="m-4aab93cf-b0c7-4de3-a992-54e79a8adb08" wordpos="t">re,</syl>
+            </verse>
+        </note>
+        <note xml:id="m-33b4463a-53a9-4e99-bae6-3ca20f920010" dur="semibrevis" oct="4" pname="e">
+            <verse xml:id="m-77fcea58-9f12-4fe9-ba28-23f94ffb942b" color="black" n="1">
+                <syl xml:id="m-4ecea3c6-f934-4564-a2d1-4caeaaa7991d">Que</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <rest xml:id="m-64708135-1e69-47cc-b605-c1456ba1c3e4" dur="minima"/>
+        <note xml:id="m-3ebcd0b8-f29a-45ff-92d1-7de5f453cfda" dur="semibrevis" oct="4" pname="f">
+            <verse xml:id="m-54e79928-aa0a-401e-8d33-68ea9809d75a" color="black" n="1">
+                <syl xml:id="m-44b2f550-0a10-4213-af51-bb117868fc10">ceaus</syl>
+            </verse>
+        </note>
+        <note xml:id="m-a7e7dea5-7ced-4ee3-8fe2-553d5b3899ba" dur="semibrevis" oct="4" pname="f">
+            <verse xml:id="m-33590731-5e26-4056-972b-f0f3ce8f9991" color="black" n="1">
+                <syl xml:id="m-65b39aaa-3992-495d-8fa4-f4e38f8b580b">qui</syl>
+            </verse>
+        </note>
+        <note xml:id="m-8cf0fc88-a642-46e1-97dd-19aef7fbb2fa" dur="semibrevis" oct="4" pname="g">
+            <verse xml:id="m-9fa45ecb-e337-47cf-b9b4-5ad8c31e8fb2" color="black" n="1">
+                <syl xml:id="m-f3bbe832-9ebe-4e70-8acf-67bbd9ac3052">sont</syl>
+            </verse>
+        </note>
+        <note xml:id="m-e5cbf96f-acdf-481d-b922-6e7a3d0f8a3a" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-f06ae22d-0ad0-4c6e-a43e-70e4e8107d09" color="black" n="1">
+                <syl xml:id="m-511f0f79-22ab-40e7-8b3b-80c2786722ad">fait</syl>
+            </verse>
+        </note>
+        <note xml:id="m-d71999a3-9675-49f0-b496-1adeba9e7e92" dur="semibrevis" oct="4" pname="f">
+            <verse xml:id="m-3d497a6c-35f4-4006-8089-9bd6ab18bb6a" color="black" n="1">
+                <syl xml:id="m-51389894-bf69-4618-93d5-160e247798f5">de</syl>
+            </verse>
+        </note>
+        <note xml:id="m-40a5216a-da4e-4bc6-8fb1-c8b6ddee3fe6" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-d0900f94-71f2-4004-a370-54d842a7e9cd" color="black" n="1">
+                <syl xml:id="m-eb45e9d5-c8b5-4d2d-9bc1-2e2fa55328e0">sa</syl>
+            </verse>
+        </note>
+        <note xml:id="m-7f48b2b0-9a6b-44d5-ba25-ae52bf7944bc" dur="semibrevis" oct="4" pname="g">
+            <verse xml:id="m-29f88a32-3f66-4604-91de-f827d8b85cda" color="black" n="1">
+                <syl xml:id="m-202cb44b-ae2f-4405-8f02-87ec250b8845" con="d" wordpos="i">nor</syl>
+            </verse>
+        </note>
+        <note xml:id="m-c1b9447e-3568-481e-a40b-ce84644f2d65" dur="minima" oct="4" pname="b">
+            <verse xml:id="m-a0d5ddbb-db3d-488f-ba9d-e99db386b1ff" color="black" n="1">
+                <syl xml:id="m-8ae90d61-40d6-4cb6-a5c0-4f74e97b24c5" con="d" wordpos="m">ri</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-c71944e0-01c9-47bb-bc8e-0cdfa132ea91" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-1120947e-bd00-440a-ae24-6af7d52dc55a" color="black" n="1">
+                <syl xml:id="m-46259c26-2650-424b-8250-2fa0f3407686" con="d" wordpos="m">tu</syl>
+            </verse>
+        </note>
+        <note xml:id="m-5b3a2482-5f44-42b6-91a3-b079880ea370" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-8e948142-f80b-450b-b4bb-40706beca6ef" color="black" n="1">
+                <syl xml:id="m-57d30bf3-daea-4b16-82a7-5a380b21b903" wordpos="t">re</syl>
+            </verse>
+        </note>
+        <note xml:id="m-1e79d7d3-79fc-4db9-898d-bd9080d56986" dur="brevis" oct="4" pname="e">
+            <verse xml:id="m-e7612bb6-400b-46d0-b500-c72e9c719f1b" color="black" n="1">
+                <syl xml:id="m-0cf00d91-04bf-43b5-9135-8f82006cffdd">En</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-d7efc99f-7a5d-4b36-a157-ae9026fd4828" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-a95b1941-b9a8-45e7-a215-df90982b7f29" color="black" n="1">
+                <syl xml:id="m-7cc8a634-5c5a-4dd9-9d1d-f4149673f695" con="d" wordpos="i">tra</syl>
+            </verse>
+        </note>
+        <note xml:id="m-b46a169e-cc22-4103-a4bd-9999ec14bcb5" dur="semibrevis" oct="4" pname="a">
+            <verse xml:id="m-10c52f33-df1a-4eec-aba2-93de6d7e5a1f" color="black" n="1">
+                <syl xml:id="m-970b4d23-f48a-4134-8563-049ab67a474e" con="d" wordpos="m"> i</syl>
+            </verse>
+        </note>
+        <note xml:id="m-44914e4e-de66-4380-8896-b0265d1cba08" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-31ef40ef-c8ca-4757-8374-1c3a17eacad2" color="black" n="1">
+                <syl xml:id="m-76d055cd-d065-4237-b496-11d2c3f98030" wordpos="t">son</syl>
+            </verse>
+        </note>
+        <note xml:id="m-ead892e0-a87e-42de-871d-9a6c91fefd82" dur="minima" oct="4" pname="a">
+            <verse xml:id="m-05d43323-85c1-436f-8343-8d4bc9e2f82b" color="black" n="1">
+                <syl xml:id="m-f8f7e528-8b6c-47dc-8ec5-261607347ae3">met</syl>
+            </verse>
+        </note>
+        <note xml:id="m-d59d5ca4-0dab-4e55-9e1d-a17f97f71d9b" dur="semibrevis" oct="4" pname="g">
+            <verse xml:id="m-446afea1-c0ac-4e6d-8a96-0340f2fb7bc4" color="black" n="1">
+                <syl xml:id="m-bbf711cb-2f4b-4e84-947c-2221157fd62c"> a</syl>
+            </verse>
+        </note>
+        <note xml:id="m-3f1752ee-d7df-48c0-8b41-a350e84fd59a" dur="minima" oct="4" pname="f">
+            <verse xml:id="m-32252fcb-c361-495c-8911-8c22c3bade17" color="black" n="1">
+                <syl xml:id="m-a318cbc3-b91b-4658-a68f-e4d6394716e9" con="d" wordpos="i">des</syl>
+            </verse>
+        </note>
+
+        <note xml:id="m-59ea50bd-5048-4a07-9f00-6946079798f8" dur="minima" oct="4" pname="g">
+            <verse xml:id="m-59d7a78c-9dcd-4c67-aca3-c1c14490d9a7" color="black" n="1">
+                <syl xml:id="m-6c264823-ce7d-421f-9f2f-360bd5c8ac39" con="d" wordpos="m">con</syl>
+            </verse>
+        </note>
+        <note xml:id="m-f2c1d795-de1c-480e-872c-47329d242beb" dur="semibrevis" oct="4" pname="f">
+            <verse xml:id="m-951643b7-42ce-4565-a670-9db8d360aab5" color="black" n="1">
+                <syl xml:id="m-98053ca9-06c2-4ad5-a11c-84fd8765e786" con="d" wordpos="m">fi</syl>
+            </verse>
+        </note>
+        <note xml:id="m-04a29ffa-69d6-4c91-9e26-04616f06c16d" dur="minima" oct="4" pname="e">
+            <verse xml:id="m-cefc5fd6-23fe-41b6-b36b-ebd9ca8eaa41" color="black" n="1">
+                <syl xml:id="m-7330120b-dfbe-472e-85b3-0596247fc5b8" con="d" wordpos="m">tu</syl>
+            </verse>
+        </note>
+        <barLine form="dashed"/>
+        <note xml:id="m-e2fe1414-7037-4e6f-ab07-724e00395a20" dur="longa" oct="4" pname="f">
+            <verse xml:id="m-3aa2cf01-4265-407c-8626-652cb4c4ac5a" color="black" n="1">
+                <syl xml:id="m-01824f2e-7113-43fd-a7ab-6e66229c1501" wordpos="t">re.</syl>
+            </verse>
+        </note>
+    </layer>
+</staff>
